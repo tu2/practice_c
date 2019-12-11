@@ -40,15 +40,19 @@ void bubble(int data[], int how_many)
 
 int main(void)
 {
+
     const int SIZE = 5;
     int my_list[SIZE] = {78, 67, 92, 83, 88};
+    
     printf("\n\n");
+    
     bubble(my_list, SIZE);
-    print_array(SIZE, my_list, "My sorted list\n");
+    
+    print_array(SIZE, my_list, "Sorted list:\n");
+    
     printf("\n\n");
-
-
 
     return 0;
+
 }
 
