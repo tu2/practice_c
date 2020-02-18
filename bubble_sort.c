@@ -1,6 +1,5 @@
-/* A simple
-   BUBBLE SORT ALTGORITHM
-   implementation
+/* 
+    A simple implementation in c of the bubble-sort algorithm 
 */
 
 #include<stdio.h>
@@ -35,7 +34,7 @@ void bubble(int data[], int how_many)
 
 int main(void)
 {
-    /* fix size unsorted list */
+    /* test with a fix size unsorted list */
     int my_list[SIZE] = {78, 67, 92, 83, 88};
     
     printf("\n");
