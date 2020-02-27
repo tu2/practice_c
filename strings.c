@@ -1,0 +1,106 @@
+/* ------- strings: (from chap 13 K.N. King C programming a modern approach 2nd ed) 
+ * create, store, copy, concatenate, length
+ * strlen
+ * strcpy/strncpy
+ * strcat/strncat
+ * learn how to work with strings creating your own functions
+ */
+#include <stdio.h>
+#include <string.h>
+
+#define N 100
+
+int my_length( const char *string);
+
+int read_line(char s[], int n);
+
+int count_space(const char *s);
+
+int main (void)
+{
+        char s1[N];
+        char s2[N];
+        char s3[N*2];
+
+        char intro[] = "This program reads a line of chars from stdinput\ncalculates the length of the string and prints it on the stdout.\nPlease enter less the 100 characters:";
+        char intro2[] = "Enter a new string";
+        char line[] = "-------- *** --------";
+
+        /* start print */
+        puts(line);
+
+        puts(intro);
+
+        read_line(s1, N);
+
+        printf("\nString 1\nhas %d chars %d spaces.\n", my_length(s1), count_space(s1));
+        /* copy s1 into s3
+         * strcpy(s3, s1) - function UNSAFE, it doesn't check if there is enough space in s3
+         * strncpy(s3, s1, sizeof(s3)-1) is better 
+         * strncpy doesn't add null character
+         */
+        strncpy(s3, s1, sizeof(s3)-1);
+        s3[sizeof(s3)-1] = '\0';
+
+        puts(intro2);
+
+        fgets(s2, sizeof(s2), stdin);
+
+        /* concatenate s2 to s3
+        * strcat(s3, s2) - function UNSAFE, it doesn't check if there is enough space in s3
+         * strncat(s3, s2, sizeof(s3)-strlen(s3)-1)
+         */
+        strncat(s3, s2, sizeof(s3)-strlen(s3)-1);
+
+        printf("\nString 2\nhas %d chars %d spaces.\n", my_length(s2), count_space(s2));
+        printf("\nStrings combined:\n%s\nThere are %ld chars %d spaces.\n", s3, strlen(s3), count_space(s3));
+
+        puts(line);
+        /* end print */
+        return 0;
+}
+
+/* read characters in a line */
+int read_line(char s[], int n)
+{
+        int ch, i = 0;
+        while ((ch = getchar()) != '\n')
+                if ( i < n)
+                        s[i++] = ch;
+        s[i] = '\0';
+        return i;
+}
+
+/* calculate the lenght of the string */
+int my_length( const char *string )
+{
+
+        size_t n = 0;
+
+        while(*string++)
+                n++;
+        return n;
+
+}
+
+/* count space */
+int count_space(const char *s)
+{
+        int count = 0;
+        while(*s++)
+                if(*s == ' ')
+                        count++;
+        return count;
+}
+
+/* ------- count spaces using an array --
+int count_space(const char s[])
+{
+        int count = 0, i;
+        for (i = 0, s[i] != '\0'; i++)
+                if (s[i] == ' ')
+                        count++;
+        return count;
+}
+*/ 
+
