@@ -1,4 +1,4 @@
-# :heart: Learning C :heart:
+Learning C
 
 Part of the learning process is practicing.
 
