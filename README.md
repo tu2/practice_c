@@ -1,4 +1,4 @@
-# :heart: Learning C :heart:
+Learning C
 
 Test [online](https://taas.trust-in-soft.com/tsnippet/#)
 
