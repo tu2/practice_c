@@ -1,8 +1,9 @@
-/* ------- strings: (from chap 13 K.N. King C programming a modern approach 2nd ed) 
- * create, store, copy, concatenate, length
- * strlen
- * strcpy/strncpy
- * strcat/strncat
+/* 
+ * Strings: (from chap 13 K.N. King C programming a modern approach 2nd ed) 
+ * (#string.h) -> create, store, copy, concatenate, length
+ *     strlen
+ *     strcpy/strncpy
+ *     strcat/strncat
  * learn how to work with strings creating your own functions
  */
 #include <stdio.h>
@@ -26,7 +27,7 @@ int main (void)
         char intro2[] = "Enter a new string";
         char line[] = "-------- *** --------";
 
-        /* start print */
+        /* Start print */
         puts(line);
 
         puts(intro);
@@ -34,7 +35,8 @@ int main (void)
         read_line(s1, N);
 
         printf("\nString 1\nhas %d chars %d spaces.\n", my_length(s1), count_space(s1));
-        /* copy s1 into s3
+        /* 
+         * Copy s1 into s3
          * strcpy(s3, s1) - function UNSAFE, it doesn't check if there is enough space in s3
          * strncpy(s3, s1, sizeof(s3)-1) is better 
          * strncpy doesn't add null character
@@ -46,21 +48,24 @@ int main (void)
 
         fgets(s2, sizeof(s2), stdin);
 
-        /* concatenate s2 to s3
-        * strcat(s3, s2) - function UNSAFE, it doesn't check if there is enough space in s3
-         * strncat(s3, s2, sizeof(s3)-strlen(s3)-1)
-         */
+        /* 
+        *  Concatenate s2 to s3
+        *  strcat(s3, s2) - function UNSAFE, it doesn't check if there is enough space in s3
+        *  strncat(s3, s2, sizeof(s3)-strlen(s3)-1)
+        */
         strncat(s3, s2, sizeof(s3)-strlen(s3)-1);
 
         printf("\nString 2\nhas %d chars %d spaces.\n", my_length(s2), count_space(s2));
         printf("\nStrings combined:\n%s\nThere are %ld chars %d spaces.\n", s3, strlen(s3), count_space(s3));
 
         puts(line);
-        /* end print */
+        
+        /* End print */
         return 0;
+
 }
 
-/* read characters in a line */
+/* Read characters in a line */
 int read_line(char s[], int n)
 {
         int ch, i = 0;
@@ -71,7 +76,7 @@ int read_line(char s[], int n)
         return i;
 }
 
-/* calculate the lenght of the string */
+/* Calculate the lenght of the string */
 int my_length( const char *string )
 {
 
@@ -83,7 +88,7 @@ int my_length( const char *string )
 
 }
 
-/* count space */
+/* Count space */
 int count_space(const char *s)
 {
         int count = 0;
@@ -93,7 +98,8 @@ int count_space(const char *s)
         return count;
 }
 
-/* ------- count spaces using an array --
+/* Count spaces using an array --
+
 int count_space(const char s[])
 {
         int count = 0, i;
@@ -102,5 +108,6 @@ int count_space(const char s[])
                         count++;
         return count;
 }
+
 */ 
 
