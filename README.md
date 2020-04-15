@@ -1,6 +1,8 @@
 # :heart: Learning C :heart:
 
-Part of the learning process is practicing.
+Test [online](https://taas.trust-in-soft.com/tsnippet/#)
+
+Practice is part of the learning process.
 
 Practice, practice, practice every day. :heart: :smile:  :thumbsup:
 
