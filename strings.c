@@ -6,6 +6,7 @@
  *     strcat/strncat
  * learn how to work with strings creating your own functions
  */
+
 #include <stdio.h>
 #include <string.h>
 
@@ -28,6 +29,7 @@ int main (void)
         char line[] = "-------- *** --------";
 
         /* Start print */
+        
         puts(line);
 
         puts(intro);
@@ -35,12 +37,14 @@ int main (void)
         read_line(s1, N);
 
         printf("\nString 1\nhas %d chars %d spaces.\n", my_length(s1), count_space(s1));
+
         /* 
          * Copy s1 into s3
          * strcpy(s3, s1) - function UNSAFE, it doesn't check if there is enough space in s3
          * strncpy(s3, s1, sizeof(s3)-1) is better 
          * strncpy doesn't add null character
-         */
+        */
+
         strncpy(s3, s1, sizeof(s3)-1);
         s3[sizeof(s3)-1] = '\0';
 
@@ -53,6 +57,7 @@ int main (void)
         *  strcat(s3, s2) - function UNSAFE, it doesn't check if there is enough space in s3
         *  strncat(s3, s2, sizeof(s3)-strlen(s3)-1)
         */
+        
         strncat(s3, s2, sizeof(s3)-strlen(s3)-1);
 
         printf("\nString 2\nhas %d chars %d spaces.\n", my_length(s2), count_space(s2));
@@ -98,7 +103,7 @@ int count_space(const char *s)
         return count;
 }
 
-/* Count spaces using an array --
+/* example count spaces using an array
 
 int count_space(const char s[])
 {
