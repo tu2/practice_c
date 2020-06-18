@@ -7,6 +7,7 @@ Test [online](https://taas.trust-in-soft.com/tsnippet/#)
 * [scanf()/fgets()](http://sekrit.de/webdocs/c/beginners-guide-away-from-scanf.html)
 * [cat](https://github.com/pete/cats) implemented in different os (on github)/ [gist](https://gist.github.com/pete/665971)
 * gnu-[coreutils](https://github.com/coreutils/coreutils/tree/master/src)
+* A tutorial on portable [Makefiles](https://nullprogram.com/blog/2017/08/20/)
 * [Right-left rule](http://cseweb.ucsd.edu/~ricko/rt_lt.rule.html) deciphering c declaration
 * [Awesome-c](https://github.com/kozross/awesome-c)
 * Project base [tutorials](https://github.com/rby90/project-based-tutorials-in-c)
