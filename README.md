@@ -10,6 +10,7 @@ Test [online](https://taas.trust-in-soft.com/tsnippet/#)
 * A tutorial on portable [Makefiles](https://nullprogram.com/blog/2017/08/20/)
 * [Right-left rule](http://cseweb.ucsd.edu/~ricko/rt_lt.rule.html) deciphering c declaration
 * [Awesome-c](https://github.com/kozross/awesome-c)
+* [SDL](https://www.parallelrealities.co.uk/) tutorial
 * Project base [tutorials](https://github.com/rby90/project-based-tutorials-in-c)
 
 ### Videos
