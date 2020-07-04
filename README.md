@@ -13,10 +13,11 @@ Test [online](https://taas.trust-in-soft.com/tsnippet/#)
 * [Awesome-c](https://github.com/kozross/awesome-c)
 * [SDL](https://www.parallelrealities.co.uk/) tutorial
 * Project base [tutorials](https://github.com/rby90/project-based-tutorials-in-c)
+* [Chris Webb](https://www.codedrome.com/) | [Dan Gookin](https://c-for-dummies.com/)
+
 
 ### Videos
 * C tutorial [Ashley Mills](https://www.youtube.com/watch?v=UILNmv2kFMc&list=PLCNJWVn9MJuPtPyljb-hewNfwEGES2oIW)
-* [Chris Webb](https://www.codedrome.com/) | [Dan Gookin](https://c-for-dummies.com/)
 * Making (on Windows 10) a game from scratch in c [video](https://www.youtube.com/watch?v=3zFFrBSdBvA)
 
 Practice is part of the learning process.
