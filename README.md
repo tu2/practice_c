@@ -4,6 +4,7 @@ Test [online](https://taas.trust-in-soft.com/tsnippet/#)
 
 ## Online resources:
 
+* D. M. Ritchie [C Reference Manual](https://www.bell-labs.com/usr/dmr/www/cman.pdf)
 * [scanf()/fgets()](http://sekrit.de/webdocs/c/beginners-guide-away-from-scanf.html)
 * [cat](https://github.com/pete/cats) implemented in different os (on github)/ [gist](https://gist.github.com/pete/665971)
 * gnu-[coreutils](https://github.com/coreutils/coreutils/tree/master/src)
