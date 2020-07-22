@@ -22,7 +22,6 @@ Test [online](https://taas.trust-in-soft.com/tsnippet/#)
 * C tutorial [Ashley Mills](https://www.youtube.com/watch?v=UILNmv2kFMc&list=PLCNJWVn9MJuPtPyljb-hewNfwEGES2oIW)
 * Making (on Windows 10) a game from scratch in c [video](https://www.youtube.com/watch?v=3zFFrBSdBvA)
 
-Practice is part of the learning process.
 
 Practice, practice, practice ...
 
