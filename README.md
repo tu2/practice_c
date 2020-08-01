@@ -7,7 +7,8 @@ Test [online](https://taas.trust-in-soft.com/tsnippet/#)
 Standards
 
 * [C11 Standard](http://open-std.org/jtc1/sc22/wg14/www/docs/n1570.pdf)
-* Proposan [C2x](http://www.open-std.org/jtc1/sc22/wg14/www/docs/n2429.pdf)
+* Proposal [C2x](http://www.open-std.org/jtc1/sc22/wg14/www/docs/n2429.pdf)
+* Home (c standards](http://open-std.org/jtc1/sc22/wg14/)
 
 History
 
