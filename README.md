@@ -12,7 +12,7 @@ Standards
 
 History
 
-* D. M. Ritchie [C Reference Manual](https://www.bell-labs.com/usr/dmr/www/cman.pdf)
+* Dennis M. Ritchie [C Reference Manual](https://www.bell-labs.com/usr/dmr/www/cman.pdf)
 
 Tutorials
 
@@ -28,7 +28,8 @@ Tutorials
 * [Chris Webb](https://www.codedrome.com/) | [Dan Gookin](https://c-for-dummies.com/)
 
 
-### Videos
+Videos
+
 * Lex Fridman [Brian Kernighan](https://www.youtube.com/watch?v=O9upVbGSBFo)
 * C tutorial [Ashley Mills](https://www.youtube.com/watch?v=UILNmv2kFMc&list=PLCNJWVn9MJuPtPyljb-hewNfwEGES2oIW)
 * Making (on Windows 10) a game from scratch in c [video](https://www.youtube.com/watch?v=3zFFrBSdBvA)
