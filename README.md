@@ -20,7 +20,7 @@ Tutorials
 * [cat](https://github.com/pete/cats) implemented in different os (on github)/ [gist](https://gist.github.com/pete/665971)
 * gnu-[coreutils](https://github.com/coreutils/coreutils/tree/master/src)
 * The C Library [Reference Guide](http://www.fortran-2000.com/ArnaudRecipes/Cstd/) by Eric Huss
-* A tutorial on portable [makefiles](https://nullprogram.com/blog/2017/08/20/) by Chris Wellons (nullprogram.com)
+* A tutorial on portable [Makefiles](https://nullprogram.com/blog/2017/08/20/) by Chris Wellons (nullprogram.com)
 * [Right-left rule](http://cseweb.ucsd.edu/~ricko/rt_lt.rule.html) deciphering c declaration
 * [Awesome-c](https://github.com/kozross/awesome-c)
 * [SDL](https://www.parallelrealities.co.uk/) tutorial
