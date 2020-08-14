@@ -34,7 +34,7 @@ int main (void)
 
         puts(intro);
 
-        read_line(s1, N);
+        read_line(s1, sizeof(s1)-1);
 
         printf("\nString 1\nhas %d chars %d spaces.\n", my_length(s1), count_space(s1));
 
