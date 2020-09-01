@@ -28,6 +28,9 @@ Tutorials
 * Project base [tutorials](https://github.com/rby90/project-based-tutorials-in-c)
 * [Chris Webb](https://www.codedrome.com/) | [Dan Gookin](https://c-for-dummies.com/)
 
+Online courses
+
+* [CS631 - APUE](https://stevens.netmeister.org/631/) 
 
 Videos
 
