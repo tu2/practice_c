@@ -15,7 +15,7 @@ History
 * Dennis M. Ritchie [C Reference Manual](https://www.bell-labs.com/usr/dmr/www/cman.pdf)
 
 Tutorials
-* Stanford CS - [Essential C](http://cslibrary.stanford.edu/101/EssentialC.pdf) - [Pointers and Memory](http://cslibrary.stanford.edu/102/PointersAndMemory.pdf)
+* [Stanford CS](http://cslibrary.stanford.edu/) - [Essential C](http://cslibrary.stanford.edu/101/EssentialC.pdf) - [Pointers and Memory](http://cslibrary.stanford.edu/102/PointersAndMemory.pdf)
 * [scanf()/fgets()](http://sekrit.de/webdocs/c/beginners-guide-away-from-scanf.html)
 * [cat](https://github.com/pete/cats) implemented in different os (on github)/ [gist](https://gist.github.com/pete/665971)
 * gnu-[coreutils](https://github.com/coreutils/coreutils/tree/master/src)
