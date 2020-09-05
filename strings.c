@@ -4,7 +4,8 @@
  *     strlen
  *     strcpy/strncpy
  *     strcat/strncat
- * learn how to work with strings creating your own functions
+ *     strlcpy
+ * Practice how to work with strings creating your own functions
  */
 
 #include <stdio.h>
