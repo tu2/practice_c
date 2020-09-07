@@ -1,14 +1,21 @@
 /* 
  * Strings: (from chap 13 K.N. King C programming a modern approach 2nd ed) 
- * (#string.h) -> create, store, copy, concatenate, length
- * strlen
- * strcpy
- * char *strcpy(char *dest, const char *src)
- * strncpy
- * char *strncpy(char *dest, const char *src, size_t n)
- * strcat/strncat
- * strlcpy
- * Practice how to work with strings creating your own functions
+ *   (#string.h) -> create, store, copy, concatenate, length
+ *   strlen
+ *   -- strcpy --
+ *   char *strcpy(char *dest, const char *src)
+ *   
+ *   -- strncpy --
+ *   char *strncpy(char *dest, const char *src, size_t n)
+ *   
+ *   -- strcat --
+ *   char *strcat(char *dest, const char *src);
+ * 
+ *   -- strncat --
+ *   char *strncat(char *dest, const char *src, size_t n);
+ *   
+ *   -- strlcpy -- BSD
+ * Practice these functions functions
  */
 
 #include <stdio.h>
