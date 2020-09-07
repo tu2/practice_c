@@ -17,6 +17,8 @@
  *   char *strncat(char *dest, const char *src, size_t n);
  *   
  *   -- strlcpy -- BSD
+ *  size_t strlcpy(char *dest, const char *src, size_t size);
+ *
  * Practice these functions functions
  */
 
