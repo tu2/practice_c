@@ -16,6 +16,7 @@
  *   -- strncat --
  *   char *strncat(char *dest, const char *src, size_t n);
  *   
+ *   Not standard POSIX
  *   -- strlcpy -- BSD
  *   size_t strlcpy(char *dest, const char *src, size_t size);
  *
