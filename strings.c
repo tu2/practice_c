@@ -20,7 +20,7 @@
  *   -- strlcpy -- BSD
  *   size_t strlcpy(char *dest, const char *src, size_t size);
  *
- *  Practice these functions functions
+ *  Practice these functions
  */
 
 #include <stdio.h>
