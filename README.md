@@ -28,6 +28,7 @@ Tutorials
 * Project base [tutorials](https://github.com/rby90/project-based-tutorials-in-c)
 * [Chris Webb](https://www.codedrome.com/) | [Dan Gookin](https://c-for-dummies.com/)
 * Inside the C Standard Library - [Begriffs](https://begriffs.com/posts/2019-01-19-inside-c-standard-lib.html)
+* [System programming](http://cs241.cs.illinois.edu/coursebook/index.html)
 
 Online courses
 
