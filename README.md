@@ -31,8 +31,9 @@ Tutorials
 
 Writing safe c code
 
-Seventeen steps to safer c - [Thomas Honold](https://www.embedded.com/seventeen-steps-to-safer-c-code/)
-[This on Github](https://github.com/Cyan4973/Writing_Safer_C_code)
+* Seventeen steps to safer c - [Thomas Honold](https://www.embedded.com/seventeen-steps-to-safer-c-code/)
+* [This on Github](https://github.com/Cyan4973/Writing_Safer_C_code)
+
 Online courses
 
 * CS241 - [System programming](http://cs241.cs.illinois.edu/coursebook/index.html) - linux/unix
