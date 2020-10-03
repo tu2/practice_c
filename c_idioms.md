@@ -1,6 +1,6 @@
 # C idioms
 
-from **K.N. King - C Programming A Modern Approach second edition 2008**
+from **K.N. King - C Programming A Modern Approach** second edition 2008
 
 ## Searching for the end of a string
 
