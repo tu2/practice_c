@@ -17,7 +17,7 @@ size_t strlen(const  char *s)
     return n;
 }
 ```
-Version 2
+Version 2 - faster, don't need a counter inside the loop
 
 ```c
 size_t strlen(const char *s)
