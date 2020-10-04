@@ -56,5 +56,9 @@ char *strcat(char *s1, const char *s2)
     return s1;
 }
 ```
-
+**IDIOM**
+```c
+while (*s)
+    s++
+```
 
