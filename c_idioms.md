@@ -61,4 +61,7 @@ char *strcat(char *s1, const char *s2)
 while (*s)
     s++
 ```
-
+```c
+while (*s++)
+    ;
+```
