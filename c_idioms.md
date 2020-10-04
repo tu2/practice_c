@@ -41,3 +41,20 @@ while (*s)
 while (*s++)
     ;
 ```
+
+## Copying a string
+
+```c
+char *strcat(char *s1, const char *s2)
+{
+    char *p = s1;
+
+    while(*p)
+        p++;
+    while (*p++ = *s2++)
+        ;
+    return s1;
+}
+```
+
+
