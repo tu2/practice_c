@@ -51,7 +51,7 @@ char *strcat (char *s1, const char *s2)
 
     while (*p)
         p++;
-    while (*p++ = *s2++)
+    while ((*p++ = *s2++) != 0)
         ;
     return s1;
 }
