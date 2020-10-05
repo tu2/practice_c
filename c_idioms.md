@@ -30,6 +30,15 @@ size_t strlen(const char *s)
 }
 ```
 
+**IDIOM**
+```c
+while (*s)
+    s++
+```
+```c
+while (*s++)
+    ;
+```
 
 ## Copying a string
 
@@ -47,10 +56,6 @@ char *strcat (char *s1, const char *s2)
 ```
 **IDIOM**
 ```c
-while (*s)
-    s++
-```
-```c
-while (*s++)
+while (*p++ = *s2++)
     ;
 ```
