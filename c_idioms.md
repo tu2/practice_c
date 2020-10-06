@@ -2,6 +2,23 @@
 
 from **K.N. King - C Programming A Modern Approach** second edition 2008
 
+## Read characters from input
+
+```c
+int read_line(char str[], int n)
+{
+    int ch, i = 0;
+
+    while((ch = getchar()) != '\n' && ch != EOF)
+        if (i < n)
+            str[i++] = ch;
+    str[i] = '\0';
+
+    return i;
+}
+
+```
+
 ## Searching for the end of a string
 
 Version 1
