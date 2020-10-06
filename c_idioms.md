@@ -2,7 +2,7 @@
 
 from **K.N. King - C Programming A Modern Approach** second edition 2008
 
-## Read characters from input
+## Reading Strings Character by Character
 
 ```c
 int read_line(char str[], int n)
