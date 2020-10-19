@@ -38,7 +38,7 @@ Online courses
 
 * CS241 - [System programming](http://cs241.cs.illinois.edu/coursebook/index.html) - linux/unix
 * [CS631 - APUE](https://stevens.netmeister.org/631/), Advanced Programming in the UNIX Environment
-* Data Structures and Programming Technique [cpsc 223](http://www.cs.yale.edu/homes/aspnes/classes/223/notes.pdf)
+* Data Structures and Programming Techniques [cpsc 223](http://www.cs.yale.edu/homes/aspnes/classes/223/notes.pdf)
 
 Videos
 
