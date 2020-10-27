@@ -14,6 +14,10 @@ History
 
 * Dennis M. Ritchie [C Reference Manual](https://www.bell-labs.com/usr/dmr/www/cman.pdf)
 
+My books
+
+* C Primer Plus, 6th Edition(2014) - Stephen Prata
+
 Tutorials
 * [Stanford CS](http://cslibrary.stanford.edu/) - [Essential C](http://cslibrary.stanford.edu/101/EssentialC.pdf) - [Pointers and Memory](http://cslibrary.stanford.edu/102/PointersAndMemory.pdf)
 * [scanf()/fgets()](http://sekrit.de/webdocs/c/beginners-guide-away-from-scanf.html)
