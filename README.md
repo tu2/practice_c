@@ -17,7 +17,7 @@ History
 My books
 
 * **C Programming: A Modern Approach**, Second Edition(2008) - **K. N. King**
-* **C Primer Plus**, 6th Edition(2014) - Stephen Prata
+* **C Primer Plus**, 6th Edition(2014) - **Stephen Prata**
 
 Tutorials
 * [Stanford CS](http://cslibrary.stanford.edu/) - [Essential C](http://cslibrary.stanford.edu/101/EssentialC.pdf) - [Pointers and Memory](http://cslibrary.stanford.edu/102/PointersAndMemory.pdf)
