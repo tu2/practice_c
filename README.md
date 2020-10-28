@@ -16,7 +16,7 @@ History
 
 My books
 
-* C Programming: A Modern Approach, Second Edition(2008) - K. N. King
+* **C Programming: A Modern Approach**, Second Edition(2008) - K. N. King
 * C Primer Plus, 6th Edition(2014) - Stephen Prata
 
 Tutorials
