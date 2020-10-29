@@ -1,8 +1,9 @@
 /* 
  * Strings: (from chap 13 K.N. King C programming a modern approach 2nd ed) 
  *   #string.h -> create, store, copy, concatenate, length
- *   -- strlen --
- *   size_t strlen(const char *s);
+ *   
+ *   -- strlen -- find length of string
+ *   size_t strlen(const char *string);
  *   
  *   -- strcpy --
  *   char *strcpy(char *dest, const char *src);
