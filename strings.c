@@ -5,7 +5,7 @@
  *   -- strlen -- find length of string
  *   size_t strlen(const char *string);
  *   
- *   -- strcpy --
+ *   -- strcpy -- copy strings from 'src' to 'dest' including '\0'
  *   char *strcpy(char *dest, const char *src);
  *   
  *   -- strncpy --
