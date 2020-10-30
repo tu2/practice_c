@@ -8,7 +8,7 @@
  *   -- strcpy -- copy strings from 'src' to 'dest' including '\0'
  *   char *strcpy(char *dest, const char *src);
  *   
- *   -- strncpy --
+ *   -- strncpy -- copy the 'n' byts of 'src' to 'dst', if there is no NULL character among the first n character of src, the string placed in dest will not be NULL-terminated 
  *   char *strncpy(char *dest, const char *src, size_t n);
  *   
  *   -- strcat --
@@ -65,7 +65,7 @@ int main (void)
         strncpy(s3, s1, sizeof(s3)-1);
         s3[sizeof(s3)-1] = '\0';
 
-        puts(intro2);
+        puts(intro2);  
 
         fgets(s2, sizeof(s2), stdin);
 
