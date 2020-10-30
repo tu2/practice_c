@@ -2,23 +2,23 @@
  * Strings: (from chap 13 K.N. King C programming a modern approach 2nd ed) 
  *   #string.h -> create, store, copy, concatenate, length
  *   
- *   -- strlen -- find length of string
+ *   - strlen -- find length of string
  *   size_t strlen(const char *string);
  *   
- *   -- strcpy -- copy strings from 'src' to 'dest' including '\0'
+ *   - strcpy -- copy strings from 'src' to 'dest' including '\0'
  *   char *strcpy(char *dest, const char *src);
  *   
- *   -- strncpy -- copy the 'n' byts of 'src' to 'dst', if there is no NULL character among the first n character of src, the string placed in dest will not be NULL-terminated 
+ *   - strncpy -- copy the 'n' byts of 'src' to 'dst', if there is no NULL character among the first n character of src, the string placed in dest will not be NULL-terminated 
  *   char *strncpy(char *dest, const char *src, size_t n);
  *   
- *   -- strcat --
+ *   - strcat --
  *   char *strcat(char *dest, const char *src);
  * 
- *   -- strncat --
+ *   - strncat --
  *   char *strncat(char *dest, const char *src, size_t n);
  *   
  *   Not standard POSIX
- *   -- strlcpy -- BSD
+ *   - strlcpy -- BSD
  *   size_t strlcpy(char *dest, const char *src, size_t size);
  *
  *  Practice these functions
