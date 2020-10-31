@@ -11,7 +11,7 @@
  *   - strncpy -- copy the 'n' byts of 'src' to 'dst', if there is no NULL character among the first n character of src, the string placed in dest will not be NULL-terminated 
  *   char *strncpy(char *dest, const char *src, size_t n);
  *   
- *   - strcat --
+ *   - strcat -- append a copy of the null terminate string 'src' to the end of the null terminated string 'dest' than add a '\0'.
  *   char *strcat(char *dest, const char *src);
  * 
  *   - strncat --
