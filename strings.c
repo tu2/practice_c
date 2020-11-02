@@ -14,7 +14,7 @@
  *   - strcat -- append a copy of the null terminate string 'src' to the end of the null terminated string 'dest' than add a '\0'.
  *   char *strcat(char *dest, const char *src);
  * 
- *   - strncat --
+ *   - strncat -- appends 'n' characters from 'src' to 'dest' and adds '\0'
  *   char *strncat(char *dest, const char *src, size_t n);
  *   
  *   Not standard POSIX
