@@ -11,7 +11,13 @@
  *   - strncpy -- copy the 'n' byts of 'src' to 'dst', if there is no NULL character among the first n character of src, the string placed in dest will not be NULL-terminated 
  *   char *strncpy(char *dest, const char *src, size_t n);
  *   
- *   - strcat -- append a copy of the null terminate string 'src' to the end of the null terminated string 'dest' than add a '\0'.
+ *   - strcat -- the strcat() function appends the 'src' string to the 'dest' string,
+       overwriting the terminating null byte ('\0') at the end of dest, and
+       then adds a terminating null byte.  The strings may not overlap, and
+       the dest string must have enough space for the result.  If dest is
+       not large enough, program behavior is unpredictable; buffer overruns
+       are a favorite avenue for attacking secure programs.
+
  *   char *strcat(char *dest, const char *src);
  * 
  *   - strncat -- appends 'n' characters from 'src' to 'dest' and adds '\0'
