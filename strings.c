@@ -12,7 +12,6 @@
  *   char *strncpy(char *dest, const char *src, size_t n);
  *   
  *   - strcat -- the strcat() function appends the 'src' string to the 'dest' string, overwriting the terminating null byte ('\0') at the end of dest, and then adds a terminating null byte.  The strings may not overlap, and the dest string must have enough space for the result.  If dest is not large enough, program behavior is unpredictable; buffer overruns are a favorite avenue for attacking secure programs.
- *
  *   char *strcat(char *dest, const char *src);
  * 
  *   - strncat -- appends 'n' characters from 'src' to 'dest' and adds '\0'
@@ -22,7 +21,6 @@
  *   - strlcpy - (BSD) - take the full size of the buffer (not just the length) and guarantee to NUL-terminate the result (as long as size is larger than 0 ). A byte for the NUL should be included in size and src must be NUL-terminated
  *
  *   size_t strlcpy(char *dest, const char *src, size_t size);
- *
  *  Practice these functions
  */
 
