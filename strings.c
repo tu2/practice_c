@@ -19,8 +19,8 @@
  *   
  *   Not standard POSIX
  *   - strlcpy - (BSD) - take the full size of the buffer (not just the length) and guarantee to NUL-terminate the result (as long as size is larger than 0 ). A byte for the NUL should be included in size and src must be NUL-terminated
- *
  *   size_t strlcpy(char *dest, const char *src, size_t size);
+ *
  *  Practice these functions
  */
 
