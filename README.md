@@ -22,7 +22,6 @@ My books
 Tutorials
 * [Stanford CS](http://cslibrary.stanford.edu/) - [Essential C](http://cslibrary.stanford.edu/101/EssentialC.pdf) - [Pointers and Memory](http://cslibrary.stanford.edu/102/PointersAndMemory.pdf)
 * [scanf()/fgets()](http://sekrit.de/webdocs/c/beginners-guide-away-from-scanf.html)
-* gnu-[coreutils](https://github.com/coreutils/coreutils/tree/master/src)
 * The C Library [Reference Guide](http://www.fortran-2000.com/ArnaudRecipes/Cstd/) by Eric Huss
 * A simple [Makefile](https://cs.colby.edu/maxwell/courses/tutorials/maketutor/) tutorial
 * A tutorial on portable [Makefiles](https://nullprogram.com/blog/2017/08/20/) by Chris Wellons (nullprogram.com)
@@ -54,6 +53,7 @@ Videos
 Source code
 
 
+* gnu-[coreutils](https://github.com/coreutils/coreutils/tree/master/src)
 * [cat](https://github.com/pete/cats) implemented in different os (on github)/ [gist](https://gist.github.com/pete/665971)
 * [musl-libc](https://git.musl-libc.org/cgit/musl/tree/src)
 
