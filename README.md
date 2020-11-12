@@ -14,7 +14,7 @@ Test [online](https://taas.trust-in-soft.com/tsnippet/#)
 
 * Dennis M. Ritchie [C Reference Manual](https://www.bell-labs.com/usr/dmr/www/cman.pdf)
 
-### My books
+### Books (I used)
 
 * **C Programming: A Modern Approach**, Second Edition(2008) - **K. N. King**
 * **C Primer Plus**, 6th Edition(2014) - **Stephen Prata**
