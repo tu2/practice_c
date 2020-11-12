@@ -10,11 +10,11 @@ Test [online](https://taas.trust-in-soft.com/tsnippet/#)
 * Proposal [C2x](http://www.open-std.org/jtc1/sc22/wg14/www/docs/n2429.pdf)
 * Home [c standards](http://open-std.org/jtc1/sc22/wg14/)
 
-History
+### History
 
 * Dennis M. Ritchie [C Reference Manual](https://www.bell-labs.com/usr/dmr/www/cman.pdf)
 
-My books
+### My books
 
 * **C Programming: A Modern Approach**, Second Edition(2008) - **K. N. King**
 * **C Primer Plus**, 6th Edition(2014) - **Stephen Prata**
