@@ -19,7 +19,8 @@ Test [online](https://taas.trust-in-soft.com/tsnippet/#)
 * **C Programming: A Modern Approach**, Second Edition(2008) - **K. N. King**
 * **C Primer Plus**, 6th Edition(2014) - **Stephen Prata**
 
-Tutorials
+### Tutorials
+
 * [Stanford CS](http://cslibrary.stanford.edu/) - [Essential C](http://cslibrary.stanford.edu/101/EssentialC.pdf) - [Pointers and Memory](http://cslibrary.stanford.edu/102/PointersAndMemory.pdf)
 * [scanf()/fgets()](http://sekrit.de/webdocs/c/beginners-guide-away-from-scanf.html)
 * The C Library [Reference Guide](http://www.fortran-2000.com/ArnaudRecipes/Cstd/) by Eric Huss
