@@ -38,13 +38,13 @@ Writing safe c code
 * Seventeen steps to safer c - [Thomas Honold](https://www.embedded.com/seventeen-steps-to-safer-c-code/)
 * [This on Github](https://github.com/Cyan4973/Writing_Safer_C_code)
 
-### Online courses
+Online courses
 
 * CPSC223 - Data Structures and Programming Techniques - [PDF](http://www.cs.yale.edu/homes/aspnes/classes/223/notes.pdf)/[HTML](http://www.cs.yale.edu/homes/aspnes/classes/223/notes.html)
 * CS241 - [System programming](http://cs241.cs.illinois.edu/coursebook/index.html) - linux/unix
 * [CS631 - APUE](https://stevens.netmeister.org/631/), Advanced Programming in the UNIX Environment
 
-### Videos
+Videos
 
 * Advaced Programming in the Unix Environment - [video](https://www.youtube.com/channel/UC7-CyoYfsrVI-dsuHRQx0IQ)
 * Lex Fridman [Brian Kernighan](https://www.youtube.com/watch?v=O9upVbGSBFo)
