@@ -33,7 +33,7 @@ Test [online](https://taas.trust-in-soft.com/tsnippet/#)
 * [Chris Webb](https://www.codedrome.com/) | [Dan Gookin](https://c-for-dummies.com/)
 * Inside the C Standard Library - [Begriffs](https://begriffs.com/posts/2019-01-19-inside-c-standard-lib.html)
 
-### Writing safe c code
+Writing safe c code
 
 * Seventeen steps to safer c - [Thomas Honold](https://www.embedded.com/seventeen-steps-to-safer-c-code/)
 * [This on Github](https://github.com/Cyan4973/Writing_Safer_C_code)
