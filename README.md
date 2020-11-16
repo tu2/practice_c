@@ -36,7 +36,7 @@ Test [online](https://taas.trust-in-soft.com/tsnippet/#)
 Writing safe c code
 
 * Seventeen steps to safer c - [Thomas Honold](https://www.embedded.com/seventeen-steps-to-safer-c-code/)
-* [This on Github](https://github.com/Cyan4973/Writing_Safer_C_code)
+* [Writing safer C code](https://github.com/Cyan4973/Writing_Safer_C_code)
 
 Online courses
 
