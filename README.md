@@ -1,6 +1,6 @@
 # Learning C
 
-Test [online](https://taas.trust-in-soft.com/tsnippet/#)
+Test online: [T-Snippet](https://taas.trust-in-soft.com/tsnippet/#)| [godbolt](https://godbolt.org/)
 
 ## Online resources:
 
