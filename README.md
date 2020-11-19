@@ -47,6 +47,7 @@ Online courses
 
 Videos
 
+* [Jacob Sorber](https://www.youtube.com/user/jms36086)
 * Advaced Programming in the Unix Environment - [video](https://www.youtube.com/channel/UC7-CyoYfsrVI-dsuHRQx0IQ)
 * Lex Fridman [Brian Kernighan](https://www.youtube.com/watch?v=O9upVbGSBFo)
 * C tutorial [Ashley Mills](https://www.youtube.com/watch?v=UILNmv2kFMc&list=PLCNJWVn9MJuPtPyljb-hewNfwEGES2oIW)
