@@ -1,8 +1,8 @@
 /* 
  *  A simple implementation in c of the bubble-sort algorithm 
-*/
+ */
 
-#include<stdio.h>
+#include <stdio.h>
 #define SIZE 5
 
 void swap(int *a, int *b)
