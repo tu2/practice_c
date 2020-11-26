@@ -23,14 +23,12 @@ void print_array(int how_many, int data[], char *str)
 
 void bubble(int data[], int how_many)
 {
-
     for (int i = 0; i < how_many; i++){
         for(int j = how_many - 1; j > i; j--)
             if(data[j-1] > data[j])
                 swap(&data[j-1], &data[j]);
     }
 }
-
 
 int main(void)
 {
@@ -39,8 +37,10 @@ int main(void)
     
     printf("\n");
     print_array(SIZE, my_list, "Unsorted List\n");
+
     bubble(my_list, SIZE);
     printf("\n"); 
+    
     print_array(SIZE, my_list, "Sorted list:\n");
     printf("\n");
 
