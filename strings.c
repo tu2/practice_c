@@ -30,7 +30,7 @@
 
 #define N 100
 
-int my_length( const char *string);
+int my_length(const char *string);
 
 int read_line(char s[], int n);
 
