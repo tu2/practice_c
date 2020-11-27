@@ -36,7 +36,7 @@ int read_line(char s[], int n);
 
 int count_space(const char *s);
 
-int main (void)
+int main(void)
 {
         char s1[N];
         char s2[N];
