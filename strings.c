@@ -38,6 +38,7 @@ int count_space(const char *s);
 
 int main(void)
 {
+        
         char s1[N];
         char s2[N];
         char s3[N*2];
@@ -47,7 +48,6 @@ int main(void)
         char line[] = "-------- *** --------";
 
         /* Start print */
-        
         puts(line);
 
         puts(intro);
@@ -62,7 +62,6 @@ int main(void)
          * strncpy(s3, s1, sizeof(s3)-1) is better 
          * strncpy doesn't add null character
         */
-
         strncpy(s3, s1, sizeof(s3)-1);
         s3[sizeof(s3)-1] = '\0';
 
@@ -75,7 +74,6 @@ int main(void)
         *  strcat(s3, s2) - function UNSAFE, it doesn't check if there is enough space in s3
         *  strncat(s3, s2, sizeof(s3)-strlen(s3)-1)
         */
-        
         strncat(s3, s2, sizeof(s3)-strlen(s3)-1);
 
         printf("\nString 2\nhas %d chars %d spaces.\n", my_length(s2), count_space(s2));
@@ -91,12 +89,14 @@ int main(void)
 /* Read characters in a line */
 int read_line(char s[], int n)
 {
+
         int ch, i = 0;
         while ((ch = getchar()) != '\n')
                 if ( i < n)
                         s[i++] = ch;
         s[i] = '\0';
         return i;
+
 }
 
 /* Calculate the lenght of the string */
@@ -114,11 +114,13 @@ int my_length( const char *string )
 /* Count space */
 int count_space(const char *s)
 {
+
         int count = 0;
         while(*s++)
                 if(*s == ' ')
                         count++;
         return count;
+
 }
 
 /* example count spaces using an array
