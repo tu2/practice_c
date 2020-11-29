@@ -39,50 +39,52 @@ int count_space(const char *s);
 int main(void)
 {
         
-        char s1[N];
-        char s2[N];
-        char s3[N*2];
+    char s1[N];
+    char s2[N];
+    char s3[N*2];
 
-        char intro[] = "This program reads a line of chars from stdinput\ncalculates the length of the string and prints it on the stdout.\nPlease enter less the 100 characters:";
-        char intro2[] = "Enter a new string";
-        char line[] = "-------- *** --------";
+    char intro[] = "This program reads a line of chars from stdinput\ncalculates the length of the string and prints it on the stdout.\nPlease enter less the 100 characters:";
+    char intro2[] = "Enter a new string";
+    char line[] = "-------- *** --------";
 
-        /* Start print */
-        puts(line);
+    /* Start print */
+    puts(line);
 
-        puts(intro);
+    puts(intro);
 
-        read_line(s1, sizeof(s1)-1);
+    read_line(s1, sizeof(s1)-1);
 
-        printf("\nString 1\nhas %d chars %d spaces.\n", my_length(s1), count_space(s1));
+    printf("\nString 1\nhas %d chars %d spaces.\n", my_length(s1), count_space(s1));
 
-        /* 
-         * Copy s1 into s3
-         * strcpy(s3, s1) - function UNSAFE, it doesn't check if there is enough space in s3
-         * strncpy(s3, s1, sizeof(s3)-1) is better 
-         * strncpy doesn't add null character
-        */
-        strncpy(s3, s1, sizeof(s3)-1);
-        s3[sizeof(s3)-1] = '\0';
+    /* 
+     * Copy s1 into s3
+     * strcpy(s3, s1) - function UNSAFE, it doesn't check if there is enough space in s3
+     * strncpy(s3, s1, sizeof(s3)-1) is better 
+     * strncpy doesn't add null character
+     */
+    strncpy(s3, s1, sizeof(s3)-1);
 
-        puts(intro2);  
+    s3[sizeof(s3)-1] = '\0';
 
-        fgets(s2, sizeof(s2), stdin);
+    puts(intro2);  
 
-        /* 
-        *  Concatenate s2 to s3
-        *  strcat(s3, s2) - function UNSAFE, it doesn't check if there is enough space in s3
-        *  strncat(s3, s2, sizeof(s3)-strlen(s3)-1)
-        */
-        strncat(s3, s2, sizeof(s3)-strlen(s3)-1);
+    fgets(s2, sizeof(s2), stdin);
 
-        printf("\nString 2\nhas %d chars %d spaces.\n", my_length(s2), count_space(s2));
-        printf("\nStrings combined:\n%s\nThere are %ld chars %d spaces.\n", s3, strlen(s3), count_space(s3));
+    /* 
+    *  Concatenate s2 to s3
+    *  strcat(s3, s2) - function UNSAFE, it doesn't check if there is enough space in s3
+    *  strncat(s3, s2, sizeof(s3)-strlen(s3)-1)
+    */
+    strncat(s3, s2, sizeof(s3)-strlen(s3)-1);
 
-        puts(line);
+    printf("\nString 2\nhas %d chars %d spaces.\n", my_length(s2), count_space(s2));
+    
+    printf("\nStrings combined:\n%s\nThere are %ld chars %d spaces.\n", s3, strlen(s3), count_space(s3));
+
+    puts(line);
         
-        /* End print */
-        return 0;
+    /* End print */
+    return 0;
 
 }
 
@@ -90,12 +92,16 @@ int main(void)
 int read_line(char s[], int n)
 {
 
-        int ch, i = 0;
-        while ((ch = getchar()) != '\n')
-                if ( i < n)
-                        s[i++] = ch;
-        s[i] = '\0';
-        return i;
+    int ch, i = 0;
+    
+    while ((ch = getchar()) != '\n')
+        
+        if ( i < n)
+            s[i++] = ch;
+    
+    s[i] = '\0';
+    
+    return i;
 
 }
 
@@ -103,11 +109,12 @@ int read_line(char s[], int n)
 int my_length( const char *string )
 {
 
-        size_t n = 0;
+    size_t n = 0;
 
-        while(*string++)
-                n++;
-        return n;
+    while(*string++)
+        n++;
+    
+    return n;
 
 }
 
@@ -115,11 +122,13 @@ int my_length( const char *string )
 int count_space(const char *s)
 {
 
-        int count = 0;
-        while(*s++)
-                if(*s == ' ')
-                        count++;
-        return count;
+    int count = 0;
+
+    while(*s++)
+        if(*s == ' ')
+            count++;
+    
+    return count;
 
 }
 
