@@ -66,7 +66,7 @@ Videos
 
 * [C as a scripting language](https://gitlab.com/jlinhoff/instantc)
 * [C Template Library](https://github.com/glouw/ctl)
-
+* [Data Structures and Algorithms implementations in C](https://github.com/f0lg0/c-ds-algos)
 
 Practice, practice, practice ...
 
