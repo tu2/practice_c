@@ -62,5 +62,9 @@ Videos
 * [cat](https://github.com/pete/cats) implemented in different os (on github)/ [gist](https://gist.github.com/pete/665971)
 * [musl-libc](https://git.musl-libc.org/cgit/musl/tree/src)
 
+### Projects
+
+* [c as a scripting language](https://gitlab.com/jlinhoff/instantc)
+
 Practice, practice, practice ...
 
