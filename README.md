@@ -65,6 +65,8 @@ Videos
 ### Projects
 
 * [c as a scripting language](https://gitlab.com/jlinhoff/instantc)
+* [C Template Library](https://github.com/glouw/ctl)
+
 
 Practice, practice, practice ...
 
