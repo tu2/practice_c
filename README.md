@@ -37,6 +37,7 @@ Test online: [T-Snippet](https://taas.trust-in-soft.com/tsnippet/#) | [godbolt](
 
 Writing safe c code
 
+* John Regehr - A Guide to Undefined Behavior in C and C++, part1, part2, part3.1
 * Chris Lattner - [What Every C Programmer Should Know About Undefined Behavior](https://blog.llvm.org/2011/05/what-every-c-programmer-should-know.html)
 * Seventeen steps to safer c - [Thomas Honold](https://www.embedded.com/seventeen-steps-to-safer-c-code/)
 * Writing safer C code [github](https://github.com/Cyan4973/Writing_Safer_C_code)
