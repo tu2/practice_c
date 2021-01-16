@@ -54,7 +54,7 @@ Videos
 * Introduction to GDB: [CS50](https://www.youtube.com/watch?v=sCtY--xRUyI) | Jacob Sorber [1](https://www.youtube.com/watch?v=mfmXcbiRs0E), [2](https://www.youtube.com/watch?v=mm0b_H0KIRw)
 * Data Structures [CS50](https://www.youtube.com/watch?v=3uGchQbk7g8)
 * Linked Lists CS50 [1](https://www.youtube.com/watch?v=zQI3FyWm144), [2](https://www.youtube.com/watch?v=FHMPswJDCvU) | [J S](https://www.youtube.com/watch?v=VOpjAHCee7c)
-* Hash Tables [CS50](https://www.youtube.com/watch?v=nvzVHwrrub0) | [J S](https://www.youtube.com/watch?v=2Ti5yvumFTU)
+* Hash Tables [CS50](https://www.youtube.com/watch?v=nvzVHwrrub0) | [Jacob Sorber](https://www.youtube.com/watch?v=2Ti5yvumFTU)
 * [Jacob Sorber](https://www.youtube.com/user/jms36086)
 * [Embedded Systems Programming](https://www.youtube.com/watch?v=3V9eqvkMzHA&list=PLPW8O6W-1chwyTzI3BHwBLbGQoPFxPAPM) - how to program embedded microcontrollers (MCUs) in C
 * Advaced Programming in the Unix Environment - [video](https://www.youtube.com/channel/UC7-CyoYfsrVI-dsuHRQx0IQ)
