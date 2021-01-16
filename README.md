@@ -51,7 +51,7 @@ Online courses
 Videos
 
 * Study C [CS50](https://study.cs50.net/)
-* CS50 [Introduction to GDB](https://www.youtube.com/watch?v=sCtY--xRUyI) | Jacob Sorber [1](https://www.youtube.com/watch?v=mfmXcbiRs0E), [2](https://www.youtube.com/watch?v=mm0b_H0KIRw)
+* CS50 [Introduction to GDB](https://www.youtube.com/watch?v=sCtY--xRUyI) | Jacob Sorber - GDB tutorial [1](https://www.youtube.com/watch?v=mfmXcbiRs0E), [2](https://www.youtube.com/watch?v=mm0b_H0KIRw)
 * Data Structures [CS50](https://www.youtube.com/watch?v=3uGchQbk7g8)
 * Linked Lists CS50 [1](https://www.youtube.com/watch?v=zQI3FyWm144), [2](https://www.youtube.com/watch?v=FHMPswJDCvU) | [J S](https://www.youtube.com/watch?v=VOpjAHCee7c)
 * Hash Tables [CS50](https://www.youtube.com/watch?v=nvzVHwrrub0) | [Jacob Sorber](https://www.youtube.com/watch?v=2Ti5yvumFTU)
