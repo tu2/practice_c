@@ -68,6 +68,7 @@ Videos
 * gnu-[coreutils](https://github.com/coreutils/coreutils/tree/master/src)
 * [cat](https://github.com/pete/cats) implemented in different os (on github)/ [gist](https://gist.github.com/pete/665971)
 * [musl-libc](https://git.musl-libc.org/cgit/musl/tree/src)
+* [curl/libcurl](https://github.com/curl/curl)
 
 ### Projects
 
