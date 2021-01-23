@@ -43,11 +43,11 @@ int main(void)
     char s2[N];
     char s3[N*2];
 
-    char intro[] = "This program reads a line of chars from stdinput\ncalculates the length of the string and prints it on the stdout.\nPlease enter less the 100 characters:";
-    char intro2[] = "Enter a new string";
+    char intro[] = "This program reads a line of chars from stdinput\ncalculates the length of the string and prints it on the stdout.\nPlease enter a line of characters:";
+    char intro2[] = "Enter a new line";
     char line[] = "-------- *** --------";
 
-    /* Start print */
+    /* Reading 1st line of characters*/
     puts(line);
 
     puts(intro);
