@@ -57,7 +57,7 @@ int main(void)
     printf("\nString 1\nhas %d chars %d spaces.\n", my_length(s1), count_space(s1));
 
     /* 
-     * Copy s1 into s3
+     * Copy s1 into s3 using function from standard library
      * strcpy(s3, s1) - function UNSAFE, it doesn't check if there is enough space in s3
      * strncpy(s3, s1, sizeof(s3)-1) is better 
      * strncpy doesn't add null character
