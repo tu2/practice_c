@@ -23,6 +23,7 @@ Test online: [T-Snippet](https://taas.trust-in-soft.com/tsnippet/#) | [godbolt](
 ### Tutorials
 
 * [Beej's Guide to C Programming](http://beej.us/guide/bgc/)
+* Microsoft - C language documentation - [Learn to use C and the C runtime library.](https://docs.microsoft.com/en-us/cpp/c-language/?view=msvc-160)
 * [Stanford CS](http://cslibrary.stanford.edu/) - [Essential C](http://cslibrary.stanford.edu/101/EssentialC.pdf) - [Pointers and Memory](http://cslibrary.stanford.edu/102/PointersAndMemory.pdf)
 * [scanf()/fgets()](http://sekrit.de/webdocs/c/beginners-guide-away-from-scanf.html)
 * The C Library [Reference Guide](http://www.fortran-2000.com/ArnaudRecipes/Cstd/) by Eric Huss
