@@ -1,5 +1,5 @@
 /* 
- *  Some notes on strings: (from chap 13 K.N. King C programming a modern approach 2nd ed) and man pages
+ *  Some notes on strings: (from chap 13 K.N. King C Programming a Modern Approach 2nd ed),  man pages and online resources
  *   #string.h -> create, store, copy, concatenate, length
  *   
  *   - strlen -- find length of string
