@@ -21,7 +21,7 @@ int read_line(char str[], int n)
 
 ## Searching for the end of a string
 
-Version 1
+**Version 1**
 
 ```c
 size_t strlen(const  char *s)
@@ -34,7 +34,7 @@ size_t strlen(const  char *s)
     return n;
 }
 ```
-Version 2 - faster, don't need a counter inside the loop
+**Version 2 - faster, don't need a counter inside the loop**
 
 ```c
 size_t strlen(const char *s)
