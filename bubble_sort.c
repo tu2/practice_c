@@ -1,5 +1,5 @@
 /* 
- *  A simple implementation of a bubble-sort algorithm in c. 
+ *  A very simple implementation of a bubble-sort algorithm in c. 
  */
 
 #include <stdio.h>
