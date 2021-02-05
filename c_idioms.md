@@ -1,4 +1,4 @@
-# C idioms
+# C Idioms
 
 from **K.N. King - C Programming A Modern Approach** second edition 2008
 
