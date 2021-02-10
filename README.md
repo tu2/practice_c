@@ -35,6 +35,7 @@ Try/Test online: [T-Snippet](https://taas.trust-in-soft.com/tsnippet/#) | [godbo
 * Project base [tutorials](https://github.com/rby90/project-based-tutorials-in-c)
 * [Dan Gookin](https://c-for-dummies.com/)
 * Inside the C Standard Library - [Begriffs](https://begriffs.com/posts/2019-01-19-inside-c-standard-lib.html)
+* [POSIX Threads Programming](https://computing.llnl.gov/tutorials/pthreads/)
 * Microsoft - C language documentation - [Learn to use C and the C runtime library.](https://docs.microsoft.com/en-us/cpp/c-language/?view=msvc-160) | [PDF](https://opdhsblobprod01.blob.core.windows.net/contents/8ee155eb21834b65814ae67f4da97bf3/68a3d2d379e13b9fa361e45ecb74a66c?sv=2018-03-28&sr=b&si=ReadPolicy&sig=IlOQKf0W7xneaQDt0YjUK%2BBfvmfM6zL0mUWRy%2FJbzEs%3D&st=2021-01-30T10%3A02%3A50Z&se=2021-01-31T10%3A12%3A50Z)
 
 Writing safe c code
