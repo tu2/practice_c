@@ -75,8 +75,7 @@ Videos
 * [curl/libcurl](https://github.com/curl/curl)
 
 ### Projects
-
-* 
+ 
 * [C as a scripting language](https://gitlab.com/jlinhoff/instantc)
 * [C Template Library](https://github.com/glouw/ctl)
 
