@@ -10,6 +10,7 @@ Try/Test online: [T-Snippet](https://taas.trust-in-soft.com/tsnippet/#) | [godbo
 * Home [c standards](http://open-std.org/jtc1/sc22/wg14/)
 * Old [C99](http://www.open-std.org/jtc1/sc22/wg14/www/docs/n1256.pdf) | Actual [C11](http://open-std.org/jtc1/sc22/wg14/www/docs/n1570.pdf)
 * Proposal [C2x](http://www.open-std.org/jtc1/sc22/wg14/www/docs/n2573.pdf)
+* Standart library
 
 ### History
 
