@@ -19,7 +19,7 @@ Try/Test online: [T-Snippet](https://taas.trust-in-soft.com/tsnippet/#) | [godbo
 ### Books (used by me)
 
 * [**C Programming: A Modern Approach**, Second Edition(2008) - **K. N. King**](https://www.amazon.com/C-Programming-Modern-Approach-2nd/dp/0393979504/ref=sr_1_1?dchild=1&keywords=c+programming+a+modern+approach&qid=1613161905&sr=8-1)
-* **C Primer Plus**, 6th Edition(2014) - **Stephen Prata**
+* [**C Primer Plus**, 6th Edition(2014) - **Stephen Prata**](https://www.amazon.com/Primer-Plus-6th-Developers-Library/dp/0321928423/ref=sr_1_1?dchild=1&keywords=Stephen+Prata&qid=1613242109&sr=8-1)
 
 ### Tutorials
 
