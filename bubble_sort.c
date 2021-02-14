@@ -3,7 +3,7 @@
  */
 
 #include <stdio.h>
-#define SIZE 7
+#define SIZE 5
 
 void swap(int *a, int *b)
 {
@@ -33,7 +33,7 @@ void bubble(int data[], int how_many)
 int main(void)
 {
     /* Test with a fix size unsorted list */
-    int my_list[SIZE] = {78, 67, -92, 83, 0, -3, 88};
+    int my_list[SIZE] = {78, 67, 92, 83, 88};
     
     printf("\n");
     print_array(SIZE, my_list, "Unsorted List\n");
