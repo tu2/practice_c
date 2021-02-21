@@ -45,7 +45,8 @@ int main (int argc, char *argv[])
             exit(1);
         }
     }
-
+    
+    /* close files */
     
     if (fclose(source) == EOF){
         printf("Error closing source file!\n");
