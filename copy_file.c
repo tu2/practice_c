@@ -1,4 +1,7 @@
-/* Copy one file (source) to another file (dest) */
+/* 
+* Copy one file (source) to another file (dest) 
+* Example of open/write files
+*/
 
 #include <stdio.h>
 #include <stdlib.h>
