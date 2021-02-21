@@ -47,8 +47,15 @@ int main (int argc, char *argv[])
     }
 
     
-    fclose(source);
-    fclose(dest);
+    if (fclose(source) == EOF){
+        printf("Error closing source file!\n");
+        exit(1);
+    }
+
+    if (fclose(dest) == EOF){
+        printf("Error closing destination file!\n");
+        exit(1);
+    }
 
 
     return 0;
