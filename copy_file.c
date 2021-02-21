@@ -17,19 +17,19 @@ int main (int argc, char *argv[])
         exit(1);
     }
 
-    /* source file */
+    /* open source file */
     if (( source = fopen(argv[1], "rb")) == NULL){
         printf("Can't open source file!\n");
         exit(1);
     }
 
-    /* destination file */
+    /* open destination file */
     if (( dest = fopen(argv[2], "wb")) == NULL){
         printf("Can't open destination file!\n");
         exit(1);
     }
 
-    /* copy */
+    /* copy form source to destination*/
 
     while (!feof(source)){
         ch = fgetc(source);
