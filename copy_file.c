@@ -34,14 +34,14 @@ int main (int argc, char *argv[])
     while (!feof(source)){
         ch = fgetc(source);
         if (ferror(source)){
-            fprintf(stderr, "Error reading  file!\n");
+            fprintf(stderr, "Error reading file!\n");
             exit(EXIT_FAILURE);
         }
 
         if (!feof(source)) 
             fputc(ch, dest);
         if (ferror(dest)){
-            fprintf(stderr, "Error writing destination file!\n");
+            fprintf(stderr, "Error writing  file!\n");
             exit(EXIT_FAILURE);
         }
     }
