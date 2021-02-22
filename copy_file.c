@@ -34,7 +34,7 @@ int main (int argc, char *argv[])
     while (!feof(source)){
         ch = fgetc(source);
         if (ferror(source)){
-            fprintf(stderr, "Error reading source file!\n");
+            fprintf(stderr, "Error reading  file!\n");
             exit(EXIT_FAILURE);
         }
 
