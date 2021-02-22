@@ -13,7 +13,7 @@ int main (int argc, char *argv[])
     char ch;
 
     if (argc != 3){
-        fprintf(stderr, "Usage: copy_file <source> <destination>\n");
+        fprintf(stderr, "Usage: %s <source> <destination>\n", argv[0]);
         exit(EXIT_FAILURE);
     }
 
