@@ -19,13 +19,13 @@ int main (int argc, char *argv[])
 
     /* open source file */
     if (( source = fopen(argv[1], "rb")) == NULL){
-        fprintf(stderr, "Can't open source file!\n");
+        fprintf(stderr, "Can't open \'%s\' file!\n", argv[1]);
         exit(EXIT_FAILURE);
     }
 
     /* open destination file */
     if (( dest = fopen(argv[2], "wb")) == NULL){
-        fprintf(stderr, "Can't open destination file!\n");
+        fprintf(stderr, "Can't open \'%s\' file!\n", argv[2]);
         exit(EXIT_FAILURE);
     }
 
