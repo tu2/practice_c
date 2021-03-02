@@ -14,7 +14,7 @@ Try/Test online: [T-Snippet](https://taas.trust-in-soft.com/tsnippet/#) | [godbo
 
 ### History
 
-* Dennis M. Ritchie [C Reference Manual](https://www.bell-labs.com/usr/dmr/www/cman.pdf)
+* Dennis M. Ritchie - C Reference Manual[PDF](https://www.bell-labs.com/usr/dmr/www/cman.pdf)
 
 ### Books (used by me)
 
