@@ -12,7 +12,7 @@ Try/Test online: [T-Snippet](https://taas.trust-in-soft.com/tsnippet/#) | [godbo
     * [C99](http://www.open-std.org/jtc1/sc22/wg14/www/docs/n1256.pdf)
     * [C11](http://open-std.org/jtc1/sc22/wg14/www/docs/n1570.pdf)
     * [C2x](http://www.open-std.org/jtc1/sc22/wg14/www/docs/n2573.pdf) (Proposal) 
-* [POSIX.1-2017](https://pubs.opengroup.org/onlinepubs/9699919799/basedefs/contents.html) (opengroup.org)
+    * [POSIX.1-2017](https://pubs.opengroup.org/onlinepubs/9699919799/basedefs/contents.html) (opengroup.org)
 
 ### History
 
