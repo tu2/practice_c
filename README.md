@@ -47,7 +47,7 @@ Writing safe c code
 * John Regehr - [A Guide to Undefined Behavior in C and C++](https://blog.regehr.org/archives/213)
 * Chris Lattner - [What Every C Programmer Should Know About Undefined Behavior](https://blog.llvm.org/2011/05/what-every-c-programmer-should-know.html)
 * Seventeen steps to safer c - [Thomas Honold](https://www.embedded.com/seventeen-steps-to-safer-c-code/)
-* Writing safer C code [github](https://github.com/Cyan4973/Writing_Safer_C_code)
+* [Writing safer C code](https://github.com/Cyan4973/Writing_Safer_C_code) (github.com)
 
 Online courses
 
