@@ -65,7 +65,8 @@ Videos
 * Data Structures [CS50](https://www.youtube.com/watch?v=3uGchQbk7g8)
 * Linked Lists 
     * [CS50 example 1](https://www.youtube.com/watch?v=zQI3FyWm144) 
-    * [CS50 example 2](https://www.youtube.com/watch?v=FHMPswJDCvU) | [J S](https://www.youtube.com/watch?v=VOpjAHCee7c)
+    * [CS50 example 2](https://www.youtube.com/watch?v=FHMPswJDCvU)
+    * [Jacob Sorber](https://www.youtube.com/watch?v=VOpjAHCee7c)
 * Hash Tables [CS50](https://www.youtube.com/watch?v=nvzVHwrrub0) | [Jacob Sorber](https://www.youtube.com/watch?v=2Ti5yvumFTU)
 * [Jacob Sorber](https://www.youtube.com/user/jms36086)
 * [Embedded Systems Programming](https://www.youtube.com/watch?v=3V9eqvkMzHA&list=PLPW8O6W-1chwyTzI3BHwBLbGQoPFxPAPM) - how to program embedded microcontrollers (MCUs) in C
