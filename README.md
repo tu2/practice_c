@@ -7,7 +7,7 @@ Try/Test online: [T-Snippet](https://taas.trust-in-soft.com/tsnippet/#) | [godbo
 ### Standards
 
 
-* C standards 
+* C Standards 
     * [JTC1/SC22/WG14 - C](http://open-std.org/jtc1/sc22/wg14/)
     * [C99](http://www.open-std.org/jtc1/sc22/wg14/www/docs/n1256.pdf)
     * [C11](http://open-std.org/jtc1/sc22/wg14/www/docs/n1570.pdf)
