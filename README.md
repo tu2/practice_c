@@ -57,7 +57,7 @@ Online courses
 
 Videos
 
-* Study C [CS50](https://study.cs50.net/)
+* [Study C](https://study.cs50.net/)(based on CS50)
 * Introduction to GDB 
     * [CS50](https://www.youtube.com/watch?v=sCtY--xRUyI) Tutorial 
     * Jacob Sorber - [GDB tutorial 1](https://www.youtube.com/watch?v=mfmXcbiRs0E) 
