@@ -66,7 +66,7 @@ Videos
 * Linked Lists 
     * [CS50 example 1](https://www.youtube.com/watch?v=zQI3FyWm144) (2017 - youtube.com) 
     * [CS50 example 2](https://www.youtube.com/watch?v=FHMPswJDCvU) (2017 - youtube.com)
-    * [Jacob Sorber](https://www.youtube.com/watch?v=VOpjAHCee7c)
+    * [Jacob Sorber](https://www.youtube.com/watch?v=VOpjAHCee7c) (2019 - youtube.com)
 * Hash Tables [CS50](https://www.youtube.com/watch?v=nvzVHwrrub0) | [Jacob Sorber](https://www.youtube.com/watch?v=2Ti5yvumFTU)
 * [Jacob Sorber](https://www.youtube.com/user/jms36086)
 * [Embedded Systems Programming](https://www.youtube.com/watch?v=3V9eqvkMzHA&list=PLPW8O6W-1chwyTzI3BHwBLbGQoPFxPAPM) - how to program embedded microcontrollers (MCUs) in C
