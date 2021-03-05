@@ -65,7 +65,7 @@ Videos
 * Data Structures [CS50](https://www.youtube.com/watch?v=3uGchQbk7g8) (2017 - youtube.com)
 * Linked Lists 
     * [CS50 example 1](https://www.youtube.com/watch?v=zQI3FyWm144) (2017 - youtube.com) 
-    * [CS50 example 2](https://www.youtube.com/watch?v=FHMPswJDCvU)
+    * [CS50 example 2](https://www.youtube.com/watch?v=FHMPswJDCvU) (2017 - youtube.com)
     * [Jacob Sorber](https://www.youtube.com/watch?v=VOpjAHCee7c)
 * Hash Tables [CS50](https://www.youtube.com/watch?v=nvzVHwrrub0) | [Jacob Sorber](https://www.youtube.com/watch?v=2Ti5yvumFTU)
 * [Jacob Sorber](https://www.youtube.com/user/jms36086)
