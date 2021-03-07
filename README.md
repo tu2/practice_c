@@ -53,7 +53,7 @@ Online courses
 
 * CPSC223 - Data Structures and Programming Techniques - [PDF](http://www.cs.yale.edu/homes/aspnes/classes/223/notes.pdf)/[HTML](http://www.cs.yale.edu/homes/aspnes/classes/223/notes.html) (2021)
 * CS241 - [System programming](http://cs241.cs.illinois.edu/coursebook/index.html) - linux/unix (2021)
-* [CS631 - APUE](https://stevens.netmeister.org/631/), Advanced Programming in the UNIX Environment
+* [CS631 - APUE](https://stevens.netmeister.org/631/), Advanced Programming in the UNIX Environment (2020-2021)
 
 Videos
 
