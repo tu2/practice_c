@@ -73,7 +73,7 @@ Videos
 * Advaced Programming in the Unix Environment - [video](https://www.youtube.com/channel/UC7-CyoYfsrVI-dsuHRQx0IQ) (2020-2021 youtube.com)
 * C tutorial [Ashley Mills](https://www.youtube.com/watch?v=UILNmv2kFMc&list=PLCNJWVn9MJuPtPyljb-hewNfwEGES2oIW) (2015 - youtube.com)
 * ["Making a game from scratch in C"](https://www.youtube.com/watch?v=3zFFrBSdBvA)-  Ryan Ries, an excelent tutorial on how to program in C on Windows
-* Brian Kernighan interview by [Lex Fridman](https://www.youtube.com/watch?v=O9upVbGSBFo) (History of C) (July 2020 youtube.com)
+* Brian Kernighan interview by [Lex Fridman](https://www.youtube.com/watch?v=O9upVbGSBFo) (History of C, July 2020, youtube.com)
 
 
 ### Source code
