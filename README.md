@@ -70,7 +70,7 @@ Videos
 * Hash Tables [CS50](https://www.youtube.com/watch?v=nvzVHwrrub0) | [Jacob Sorber](https://www.youtube.com/watch?v=2Ti5yvumFTU)
 * [Jacob Sorber](https://www.youtube.com/user/jms36086)
 * [Embedded Systems Programming](https://www.youtube.com/watch?v=3V9eqvkMzHA&list=PLPW8O6W-1chwyTzI3BHwBLbGQoPFxPAPM) - how to program embedded microcontrollers (MCUs) in C
-* Advaced Programming in the Unix Environment - [video](https://www.youtube.com/channel/UC7-CyoYfsrVI-dsuHRQx0IQ)
+* Advaced Programming in the Unix Environment - [video](https://www.youtube.com/channel/UC7-CyoYfsrVI-dsuHRQx0IQ) (2020-2021 youtube.com)
 * C tutorial [Ashley Mills](https://www.youtube.com/watch?v=UILNmv2kFMc&list=PLCNJWVn9MJuPtPyljb-hewNfwEGES2oIW) (2015 - youtube.com)
 * ["Making a game from scratch in C"](https://www.youtube.com/watch?v=3zFFrBSdBvA)-  Ryan Ries, an excelent tutorial on how to program in C on Windows
 * Brian Kernighan interview by [Lex Fridman](https://www.youtube.com/watch?v=O9upVbGSBFo) (History of C)
