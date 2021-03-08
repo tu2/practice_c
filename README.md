@@ -69,7 +69,7 @@ Videos
     * [Jacob Sorber](https://www.youtube.com/watch?v=VOpjAHCee7c) (2019 - youtube.com)
 * Hash Tables
     * [Example 1 - CS50](https://www.youtube.com/watch?v=nvzVHwrrub0) (2018 - youtube.com)
-    * [Example 2 Jacob Sorber](https://www.youtube.com/watch?v=2Ti5yvumFTU)
+    * [Example 2 - Jacob Sorber](https://www.youtube.com/watch?v=2Ti5yvumFTU) (2020 - youtube.com)
 * [Jacob Sorber](https://www.youtube.com/user/jms36086)
 * [Embedded Systems Programming](https://www.youtube.com/watch?v=3V9eqvkMzHA&list=PLPW8O6W-1chwyTzI3BHwBLbGQoPFxPAPM) - how to program embedded microcontrollers (MCUs) in C
 * Advaced Programming in the Unix Environment - [video](https://www.youtube.com/channel/UC7-CyoYfsrVI-dsuHRQx0IQ) (2020-2021 youtube.com)
