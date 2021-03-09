@@ -83,8 +83,11 @@ Videos
 * C strings libraries
     * String functions from [glib](https://developer.gnome.org/glib/2.26/glib-String-Utility-Functions.html)
     * https://github.com/intel/safestringlib 
-    *
-    *
+    * https://github.com/rurban/safeclib
+    * https://github.com/mpedrero/safeString
+    * https://github.com/antirez/sds
+    * https://github.com/maxim2266/str
+
 * gnu-[coreutils](https://github.com/coreutils/coreutils/tree/master/src)
 * [cat](https://github.com/pete/cats) implemented in different os (on github)/ [gist](https://gist.github.com/pete/665971)
 * [musl-libc](https://git.musl-libc.org/cgit/musl/tree/src)
