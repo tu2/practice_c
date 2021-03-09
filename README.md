@@ -27,7 +27,6 @@ Try/Test online: [T-Snippet](https://taas.trust-in-soft.com/tsnippet/#) | [godbo
 
 * [Beej's Guide to C Programming](http://beej.us/guide/bgc/)
 * [Stanford CS](http://cslibrary.stanford.edu/) - [Essential C](http://cslibrary.stanford.edu/101/EssentialC.pdf) - [Pointers and Memory](http://cslibrary.stanford.edu/102/PointersAndMemory.pdf)
-* [scanf()/fgets()](http://sekrit.de/webdocs/c/beginners-guide-away-from-scanf.html)
 * The C Library [Reference Guide](http://www.fortran-2000.com/ArnaudRecipes/Cstd/) by Eric Huss
 * Notes, examples - [Data Structures and Algorithms implementations in C](https://github.com/f0lg0/c-ds-algos)
 * A simple [Makefile](https://cs.colby.edu/maxwell/courses/tutorials/maketutor/) tutorial
@@ -44,6 +43,7 @@ Try/Test online: [T-Snippet](https://taas.trust-in-soft.com/tsnippet/#) | [godbo
 
 Writing safe c code
 
+* Felix Palmen - [scanf()/fgets()](http://sekrit.de/webdocs/c/beginners-guide-away-from-scanf.html)
 * John Regehr - [A Guide to Undefined Behavior in C and C++](https://blog.regehr.org/archives/213)
 * Chris Lattner - [What Every C Programmer Should Know About Undefined Behavior](https://blog.llvm.org/2011/05/what-every-c-programmer-should-know.html)
 * Seventeen steps to safer c - [Thomas Honold](https://www.embedded.com/seventeen-steps-to-safer-c-code/)
