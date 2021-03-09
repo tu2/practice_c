@@ -43,7 +43,7 @@ Try/Test online: [T-Snippet](https://taas.trust-in-soft.com/tsnippet/#) | [godbo
 
 Writing safe c code
 
-* Felix Palmen - [scanf()/fgets()](http://sekrit.de/webdocs/c/beginners-guide-away-from-scanf.html)
+* Felix Palmen - [A beginners guide away from scanf()](http://sekrit.de/webdocs/c/beginners-guide-away-from-scanf.html)
 * John Regehr - [A Guide to Undefined Behavior in C and C++](https://blog.regehr.org/archives/213)
 * Chris Lattner - [What Every C Programmer Should Know About Undefined Behavior](https://blog.llvm.org/2011/05/what-every-c-programmer-should-know.html)
 * Seventeen steps to safer c - [Thomas Honold](https://www.embedded.com/seventeen-steps-to-safer-c-code/)
