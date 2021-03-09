@@ -81,6 +81,7 @@ Videos
 ### Source code
 
 * C strings libraries
+    * String functions from [glib](https://developer.gnome.org/glib/2.26/glib-String-Utility-Functions.html)
     * https://github.com/intel/safestringlib 
     *
     *
