@@ -87,6 +87,10 @@ Videos
     * https://github.com/mpedrero/safeString
     * https://github.com/antirez/sds
     * https://github.com/maxim2266/str
+    * https://github.com/xyproto/egcc
+    * https://github.com/composer927/stringstruct
+    * https://github.com/c-factory/strings
+    * https://github.com/cavaliercoder/c-stringbuilder
 
 * gnu-[coreutils](https://github.com/coreutils/coreutils/tree/master/src)
 * [cat](https://github.com/pete/cats) implemented in different os (on github)/ [gist](https://gist.github.com/pete/665971)
