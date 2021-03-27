@@ -30,6 +30,7 @@ Try/Test online: [T-Snippet](https://taas.trust-in-soft.com/tsnippet/#) | [godbo
 * The C Library [Reference Guide](http://www.fortran-2000.com/ArnaudRecipes/Cstd/) by Eric Huss
 * Notes, examples - [Data Structures and Algorithms implementations in C](https://github.com/f0lg0/c-ds-algos)
 * [How to implement a hash table in c](https://benhoyt.com/writings/hash-table-in-c/) Ben Hoyt, 2021
+* [Hash tables](https://craftinginterpreters.com/hash-tables.html) Bob Nystrom, 2020
 * A simple [Makefile](https://cs.colby.edu/maxwell/courses/tutorials/maketutor/) tutorial
 * A tutorial on portable [Makefiles](https://nullprogram.com/blog/2017/08/20/) by Chris Wellons (nullprogram.com)
 * [Right-left rule](http://cseweb.ucsd.edu/~ricko/rt_lt.rule.html) deciphering c declaration
