@@ -78,6 +78,6 @@ while (*p++ = *s2++)
 ```
 
 ## Inverse Square Root
-**A Fast Quake III Algorithm ** 
+**A Fast Quake III Algorithm** 
 [Source](https://www.youtube.com/watch?v=p8u_k2LIZyo)
 
