@@ -76,3 +76,6 @@ char *strcat (char *s1, const char *s2)
 while (*p++ = *s2++)
     ;
 ```
+
+## Inverse Square Root
+*A Fast Quake III Algorithm *
