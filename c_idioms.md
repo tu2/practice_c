@@ -77,8 +77,8 @@ while (*p++ = *s2++)
     ;
 ```
 
-## Inverse Square Root
-**A Fast Quake III Algorithm** 
+## Fast Inverse Square Root
+**A Quake III Algorithm** 
 
 [Explanation](https://www.youtube.com/watch?v=p8u_k2LIZyo)
 
@@ -98,4 +98,11 @@ float Q_rsqrt( float number )
   
   return y;
 }
+```
+Better use today:
+
+```c
+#include <math.h>
+
+float y = 1/sqrt(x);
 ```
