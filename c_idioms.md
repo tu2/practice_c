@@ -80,7 +80,9 @@ while (*p++ = *s2++)
 ## Fast Inverse Square Root
 **A Quake III Algorithm** 
 
+[History](https://medium.com/hard-mode/the-legendary-fast-inverse-square-root-e51fee3b49d9)
 [Explanation](https://www.youtube.com/watch?v=p8u_k2LIZyo)
+
 
 ```c
 float Q_rsqrt( float number )
