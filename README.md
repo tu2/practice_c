@@ -26,6 +26,7 @@ Try/Test online: [T-Snippet](https://taas.trust-in-soft.com/tsnippet/#) | [godbo
 ### Tutorials
 
 * [Beej's Guide to C Programming](http://beej.us/guide/bgc/)
+* [C programming tutorial](https://randu.org/tutorials/c/)
 * [Stanford CS](http://cslibrary.stanford.edu/) - [Essential C](http://cslibrary.stanford.edu/101/EssentialC.pdf) - [Pointers and Memory](http://cslibrary.stanford.edu/102/PointersAndMemory.pdf)
 * The C Library [Reference Guide](http://www.fortran-2000.com/ArnaudRecipes/Cstd/) by Eric Huss
 * Notes, examples - [Data Structures and Algorithms implementations in C](https://github.com/f0lg0/c-ds-algos)
