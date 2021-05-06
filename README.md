@@ -37,7 +37,6 @@ Try/Test online: [T-Snippet](https://taas.trust-in-soft.com/tsnippet/#) | [godbo
 * A tutorial on portable [Makefiles](https://nullprogram.com/blog/2017/08/20/) by Chris Wellons (nullprogram.com)
 * [Right-left rule](http://cseweb.ucsd.edu/~ricko/rt_lt.rule.html) deciphering c declaration
 * Make a text editor - [tutorial](https://viewsourcecode.org/snaptoken/kilo/index.html) | [code](https://github.com/snaptoken/kilo-src)
-* [Awesome-c](https://github.com/kozross/awesome-c)
 * [SDL](https://www.parallelrealities.co.uk/) tutorial
 * Project base [tutorials](https://github.com/rby90/project-based-tutorials-in-c)
 * [Dan Gookin](https://c-for-dummies.com/)
@@ -103,6 +102,7 @@ Videos
 
 ### Projects
  
+* [Awesome-c](https://github.com/kozross/awesome-c)
 * [C as a scripting language](https://gitlab.com/jlinhoff/instantc)
 * [C Template Library](https://github.com/glouw/ctl)
 
