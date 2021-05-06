@@ -38,7 +38,6 @@ Try/Test online: [T-Snippet](https://taas.trust-in-soft.com/tsnippet/#) | [godbo
 * [Right-left rule](http://cseweb.ucsd.edu/~ricko/rt_lt.rule.html) deciphering c declaration
 * Make a text editor - [tutorial](https://viewsourcecode.org/snaptoken/kilo/index.html) | [code](https://github.com/snaptoken/kilo-src)
 * [SDL](https://www.parallelrealities.co.uk/) tutorial
-* Project base [tutorials](https://github.com/rby90/project-based-tutorials-in-c)
 * [Dan Gookin](https://c-for-dummies.com/)
 * Inside the C Standard Library - [Begriffs](https://begriffs.com/posts/2019-01-19-inside-c-standard-lib.html)
 * [POSIX Threads Programming](https://computing.llnl.gov/tutorials/pthreads/)
@@ -103,6 +102,7 @@ Videos
 ### Projects
  
 * [Awesome-c](https://github.com/kozross/awesome-c)
+* Project base [tutorials](https://github.com/rby90/project-based-tutorials-in-c)
 * [C as a scripting language](https://gitlab.com/jlinhoff/instantc)
 * [C Template Library](https://github.com/glouw/ctl)
 
