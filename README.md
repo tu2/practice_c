@@ -60,6 +60,7 @@ Online courses
 Videos
 
 * [Study C](https://study.cs50.net/) (based on CS50)
+* [Modern C and What We Can Learn From It](https://www.youtube.com/watch?v=QpAhX-gsHMs) - Luca Sas (ACCU 2021)
 * Introduction to GDB 
     * [CS50](https://www.youtube.com/watch?v=sCtY--xRUyI) Tutorial 
     * Jacob Sorber - [GDB tutorial 1](https://www.youtube.com/watch?v=mfmXcbiRs0E) 
