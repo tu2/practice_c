@@ -51,7 +51,10 @@ size_t strlen(const char *s)
 ```c
 while (*s)
     s++
+
 ```
+OR
+
 ```c
 while (*s++)
     ;
