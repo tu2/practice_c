@@ -84,6 +84,13 @@ Avoid compiler warnings
 while ((*p++ = *s2++) != 0)
     ;
 ```
+OR
+
+```c
+while ((*p++ = *s2++))
+    ;
+```
+
 ## Fast Inverse Square Root
 **A Quake III Algorithm** 
 
