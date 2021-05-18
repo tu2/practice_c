@@ -75,12 +75,12 @@ char *strcat (char *s1, const char *s2)
 }
 ```
 **IDIOM**
-s
+
 ```c
 while ((*p++ = *s2++) != 0)
     ;
 ```
-OR
+or
 
 ```c
 while ((*p++ = *s2++))
