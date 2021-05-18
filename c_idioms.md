@@ -79,7 +79,7 @@ char *strcat (char *s1, const char *s2)
 while (*p++ = *s2++)
     ;
 ```
-BETTER
+Avoid compiler warnings
 ```c
 while ((*p++ = *s2++) != 0)
     ;
