@@ -75,11 +75,7 @@ char *strcat (char *s1, const char *s2)
 }
 ```
 **IDIOM**
-```c
-while (*p++ = *s2++)
-    ;
-```
-Avoid compiler warnings
+s
 ```c
 while ((*p++ = *s2++) != 0)
     ;
