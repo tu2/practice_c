@@ -102,5 +102,12 @@ Videos
 * [curl/libcurl](https://github.com/curl/curl)
 
 
+### Projects
+ 
+* [Awesome-c](https://github.com/kozross/awesome-c)
+* Project base [tutorials](https://github.com/rby90/project-based-tutorials-in-c)
+* [C as a scripting language](https://gitlab.com/jlinhoff/instantc)
+* [C Template Library](https://github.com/glouw/ctl)
+
 Practice, practice, practice ...
 
