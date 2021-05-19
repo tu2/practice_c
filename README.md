@@ -27,7 +27,7 @@ Try/Test online: [T-Snippet](https://taas.trust-in-soft.com/tsnippet/#) | [godbo
 
 * [Beej's Guide to C Programming](http://beej.us/guide/bgc/)
 * [C programming tutorial](https://randu.org/tutorials/c/)
-* [Atutorial on pointers and arrays in c](https://github.com/jflaherty/ptrtut13/blob/master/md/pointers.md) Ted Jensen
+* [A tutorial on pointers and arrays in c](https://github.com/jflaherty/ptrtut13/blob/master/md/pointers.md) Ted Jensen
 * [How to properly use macros in C](https://pmihaylov.com/macros-in-c/) by [Preslav Mihaylov](https://github.com/preslavmihaylov/learn-c-the-hard-way)
 * [Stanford CS](http://cslibrary.stanford.edu/) - [Essential C](http://cslibrary.stanford.edu/101/EssentialC.pdf) - [Pointers and Memory](http://cslibrary.stanford.edu/102/PointersAndMemory.pdf) by Nick Parlante 2000
 * The C Library [Reference Guide](http://www.fortran-2000.com/ArnaudRecipes/Cstd/) by Eric Huss (1997)
