@@ -25,7 +25,7 @@ Try/Test online: [T-Snippet](https://taas.trust-in-soft.com/tsnippet/#) | [godbo
 
 ### Tutorials
 
-* [Beej's Guide to C Programming](http://beej.us/guide/bgc/)
+* [Beej's Guide to C Programming](http://beej.us/guide/bgc/) (update 2021)
 * [C programming tutorial](https://randu.org/tutorials/c/)
 * [A tutorial on pointers and arrays in c](https://github.com/jflaherty/ptrtut13/blob/master/md/pointers.md) Ted Jensen
 * [How to properly use macros in C](https://pmihaylov.com/macros-in-c/) by [Preslav Mihaylov](https://github.com/preslavmihaylov/learn-c-the-hard-way)
