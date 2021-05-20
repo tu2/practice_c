@@ -63,6 +63,8 @@ while (*s++)
 ## Concatenating two strings
 
 ```c
+/* copy the content of s2 to the end of s1 */
+
 char *strcat (char *s1, const char *s2)
 {
     char *p = s1;
