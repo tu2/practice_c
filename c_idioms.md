@@ -60,7 +60,7 @@ while (*s++)
     ;
 ```
 
-## Copying a string
+## Concatenating two strings
 
 ```c
 char *strcat (char *s1, const char *s2)
