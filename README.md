@@ -86,6 +86,7 @@ Videos
 
 * [OpenBSD libc](https://github.com/openbsd/src/tree/master/lib/libc)
 * [musl-libc](https://git.musl-libc.org/cgit/musl/tree/src)
+* [glibc](https://sourceware.org/git/?p=glibc.git)
 * C strings libraries
     * String functions from [glib](https://developer.gnome.org/glib/2.26/glib-String-Utility-Functions.html)
     * https://github.com/intel/safestringlib 
