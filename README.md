@@ -84,6 +84,7 @@ Videos
 
 ### Source code
 
+* [OpenBSD libc](https://github.com/openbsd/src/tree/master/lib/libc)
 * C strings libraries
     * String functions from [glib](https://developer.gnome.org/glib/2.26/glib-String-Utility-Functions.html)
     * https://github.com/intel/safestringlib 
