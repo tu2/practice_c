@@ -1,4 +1,4 @@
-/*  hex: 0x123
+/*
  *  NOTES ON STRINGS with some examples (SOURCE: K.N. King C Programming a Modern Approach 2nd ed, man pages and some online resources)
  *   #string.h -> create, store, copy, concatenate, length
  *   
