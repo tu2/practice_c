@@ -27,6 +27,7 @@ By  Dennis M. Ritchie
 
 * [Beej's Guide to C Programming](http://beej.us/guide/bgc/) (update 2021)
 * [C programming tutorial](https://randu.org/tutorials/c/)
+* [comp.lang.c](http://c-faq.com/)
 * [A tutorial on pointers and arrays in c](https://pdos.csail.mit.edu/6.828/2014/readings/pointers.pdf) Ted Jensen (pdf, 2003)
 * [How to properly use macros in C](https://pmihaylov.com/macros-in-c/) by [Preslav Mihaylov](https://github.com/preslavmihaylov/learn-c-the-hard-way)
 * [Stanford CS](http://cslibrary.stanford.edu/) - [Essential C](http://cslibrary.stanford.edu/101/EssentialC.pdf) - [Pointers and Memory](http://cslibrary.stanford.edu/102/PointersAndMemory.pdf) by Nick Parlante 2000
