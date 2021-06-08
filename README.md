@@ -1,7 +1,5 @@
 # Learning C
 
-hex: 0xfabcd
-
 Try out c code online: [T-Snippet](https://taas.trust-in-soft.com/tsnippet/#) | [godbolt](https://godbolt.org/) | [cplayground](https://cplayground.com/) | [GDB Online](https://www.onlinegdb.com/)
 
 ## Online resources:
