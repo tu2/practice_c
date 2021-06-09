@@ -2,9 +2,10 @@
 
 from **K.N. King - C Programming A Modern Approach** second edition 2008
 
-## Check int overflow
+## Check for int overflow
 
 ```c
+/* http://c-faq.com/misc/intovf.html */
 #include <limits.h>
 
 int add(int a, int b)
