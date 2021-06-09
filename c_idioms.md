@@ -5,7 +5,15 @@ from **K.N. King - C Programming A Modern Approach** second edition 2008
 ## Check int overflow
 
 ```c
+#include <limits.h>
+
 int add(int a, int b){
+    if ( INT_MAX - b < 0){
+        fputs("int overflow\n", stderr);
+        return INT_MAX;
+    }
+
+    return a + b;
 }
 ```
 
