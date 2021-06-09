@@ -2,23 +2,6 @@
 
 from **K.N. King - C Programming A Modern Approach** second edition 2008
 
-## Check for int overflow
-
-```c
-/* http://c-faq.com/misc/intovf.html */
-#include <limits.h>
-
-int add(int a, int b)
-{
-    if ( INT_MAX - b < 0){
-        fputs("int overflow\n", stderr);
-        return INT_MAX;
-    }
-
-    return a + b;
-}
-```
-
 ## Reading strings character by character
 
 ```c
@@ -105,6 +88,25 @@ or
 while ((*p++ = *s2++))
     ;
 ```
+
+## Check for int overflow
+
+```c
+/* http://c-faq.com/misc/intovf.html */
+#include <limits.h>
+
+int add(int a, int b)
+{
+    if ( INT_MAX - b < 0){
+        fputs("int overflow\n", stderr);
+        return INT_MAX;
+    }
+
+    return a + b;
+}
+```
+
+
 
 ## Fast Inverse Square Root
 **A Quake III Algorithm** 
