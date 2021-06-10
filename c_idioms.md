@@ -105,7 +105,26 @@ int add(int a, int b)
     return a + b;
 }
 ```
+```c
+/* Jens Gustedt https://stackoverflow.com/questions/3944505/detecting-signed-overflow-in-c-c*/
 
+int add(int a, int b)
+{
+ if (a >= 0) {
+  if (INT_MAX - a < b) {
+   /* would overflow */
+   abort();
+  }
+ }
+ else {
+  if (b < INT_MIN - a) {
+   /* would overflow */
+   abort();
+  }
+ }
+ return a + b;
+}
+```
 
 
 ## Fast Inverse Square Root
