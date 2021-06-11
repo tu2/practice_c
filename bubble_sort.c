@@ -3,6 +3,7 @@
  */
 /*
 ** 0xffa
+** 0xaaf
 */
 #include <stdio.h>
 #define SIZE 5
