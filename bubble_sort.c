@@ -1,12 +1,7 @@
 /* 
  *  A very simple implementation of a bubble-sort algorithm in c. 
  */
-/*
-** 0xffa
-** 0xaaf
-** 0x2a1
-** 0x1a2
-*/
+
 #include <stdio.h>
 #define SIZE 5
 
