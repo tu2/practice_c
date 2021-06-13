@@ -14,9 +14,8 @@ Try out c code online: [T-Snippet](https://taas.trust-in-soft.com/tsnippet/#) | 
     * [C2x](http://www.open-std.org/jtc1/sc22/wg14/www/docs/n2596.pdf) (Proposal) 
     * [POSIX.1-2017](https://pubs.opengroup.org/onlinepubs/9699919799/basedefs/contents.html) (opengroup.org)
 
-### C Reference Manual - [PDF](https://www.bell-labs.com/usr/dmr/www/cman.pdf)
+### C Reference Manual (Dennis M. Ritchie) - [PDF](https://www.bell-labs.com/usr/dmr/www/cman.pdf)
  
-By  Dennis M. Ritchie
 
 ### Books (used by me)
 
