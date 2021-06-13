@@ -41,7 +41,7 @@ By  Dennis M. Ritchie
 * Make a text editor - [tutorial](https://viewsourcecode.org/snaptoken/kilo/index.html) | [code](https://github.com/snaptoken/kilo-src)
 * [SDL](https://www.parallelrealities.co.uk/) tutorial
 * [Dan Gookin](https://c-for-dummies.com/)
-* Inside the C Standard Library - [Begriffs](https://begriffs.com/posts/2019-01-19-inside-c-standard-lib.html)
+* Inside the C Standard Library - [Begriffs](https://begriffs.com/posts/2019-01-19-inside-c-standard-lib.html)(2019)
 * [POSIX Threads Programming](https://computing.llnl.gov/tutorials/pthreads/)
 * Microsoft - C language documentation - [Learn to use C and the C runtime library.](https://docs.microsoft.com/en-us/cpp/c-language/?view=msvc-160) | [PDF](https://opdhsblobprod01.blob.core.windows.net/contents/8ee155eb21834b65814ae67f4da97bf3/ba7d52bda5813b848077b20dc6636973?sv=2018-03-28&sr=b&si=ReadPolicy&sig=6aixU9nUl%2FVdegXr7hWU7mct14XnNye6ST8YiYY7%2FoE%3D&st=2021-06-13T18%3A15%3A44Z&se=2021-06-14T18%3A25%3A44Z)
 
