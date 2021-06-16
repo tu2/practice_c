@@ -8,7 +8,7 @@ Try out c code online: [T-Snippet](https://taas.trust-in-soft.com/tsnippet/#) | 
 
 
 * C Standards 
-    * [JTC1/SC22/WG14 - C](http://open-std.org/jtc1/sc22/wg14/)
+    * [C Working Group WG14 Docs](http://open-std.org/jtc1/sc22/wg14/)
     * [C99](http://www.open-std.org/jtc1/sc22/wg14/www/docs/n1256.pdf)
     * [C11](http://www.open-std.org/jtc1/sc22/wg14/www/docs/n2596.pdf)
     * [C2x](http://www.open-std.org/jtc1/sc22/wg14/www/docs/n2596.pdf) (Proposal) 
