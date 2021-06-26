@@ -24,7 +24,7 @@ Try out c code online: [T-Snippet](https://taas.trust-in-soft.com/tsnippet/#) | 
 
 ### Tutorials
 
-* [Beej's Guide to C Programming](http://beej.us/guide/bgc/) (update 2021)
+* [Beej's Guide to C Programming](http://beej.us/guide/bgc/) (updated 2021)
 * [C programming tutorial](https://randu.org/tutorials/c/)
 * [comp.lang.c](http://c-faq.com/)
 * [A tutorial on pointers and arrays in c](https://pdos.csail.mit.edu/6.828/2014/readings/pointers.pdf) Ted Jensen (pdf, 2003)
