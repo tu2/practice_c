@@ -29,8 +29,8 @@ Try out c code online: [T-Snippet](https://taas.trust-in-soft.com/tsnippet/#) | 
 * [Stanford CS](http://cslibrary.stanford.edu/) 
     * [Essential C](http://cslibrary.stanford.edu/101/EssentialC.pdf) - Nick Parlante 2003
     * [Pointers and Memory](http://cslibrary.stanford.edu/102/PointersAndMemory.pdf) - Nick Parlante 2000
-    * [Linked list basics](http://cslibrary.stanford.edu/103/LinkedListBasics.pdf) N. Parlante 2001
-    * [Binary Trees](http://cslibrary.stanford.edu/110/BinaryTrees.html)
+    * [Linked list basics](http://cslibrary.stanford.edu/103/LinkedListBasics.pdf) - N. Parlante 2001
+    * [Binary Trees](http://cslibrary.stanford.edu/110/BinaryTrees.html) - N. Parlante
 * [comp.lang.c](http://c-faq.com/)
 * [A tutorial on pointers and arrays in c](https://pdos.csail.mit.edu/6.828/2014/readings/pointers.pdf) Ted Jensen (pdf, 2003)
 * [How to properly use macros in C](https://pmihaylov.com/macros-in-c/) by [Preslav Mihaylov](https://github.com/preslavmihaylov/learn-c-the-hard-way)
