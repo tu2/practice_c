@@ -2,7 +2,7 @@
 
 Try out c code online: [T-Snippet](https://taas.trust-in-soft.com/tsnippet/#) | [godbolt](https://godbolt.org/) | [cplayground](https://cplayground.com/) | [GDB Online](https://www.onlinegdb.com/)
 
-Tools: [frama-c](https://frama-c.com/)
+Tools: [frama-c](https://frama-c.com/) | [infer](https://fbinfer.com/)
 
 ## Online resources:
 
