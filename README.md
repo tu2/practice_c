@@ -41,7 +41,7 @@ Tools: [frama-c](https://frama-c.com/) | [infer](https://fbinfer.com/)
 * [How to implement a hash table in c](https://benhoyt.com/writings/hash-table-in-c/) Ben Hoyt (2021)
 * [Hash tables](https://craftinginterpreters.com/hash-tables.html) (from Crafting Interpreters, 2020) by Bob Nystrom
 * A simple [Makefile](https://cs.colby.edu/maxwell/courses/tutorials/maketutor/) tutorial
-* Another [makefile](https://stackoverflow.com/questions/30573481/how-to-write-a-makefile-with-separate-source-and-header-directories/30602701#30602701) tutorial.
+* Another [Makefile](https://stackoverflow.com/questions/30573481/how-to-write-a-makefile-with-separate-source-and-header-directories/30602701#30602701) tutorial.
 * A tutorial on portable [Makefiles](https://nullprogram.com/blog/2017/08/20/) by Chris Wellons (nullprogram.com, 2017)
 * [Right-left rule](http://cseweb.ucsd.edu/~ricko/rt_lt.rule.html) deciphering c declaration
 * Make a text editor - [tutorial](https://viewsourcecode.org/snaptoken/kilo/index.html) | [code](https://github.com/snaptoken/kilo-src)
