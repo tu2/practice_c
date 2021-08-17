@@ -96,7 +96,11 @@ Videos
 * [glibc](https://sourceware.org/git/?p=glibc.git)
 * gnu-[coreutils](https://github.com/coreutils/coreutils/tree/master/src)
 * [curl/libcurl](https://github.com/curl/curl)
-* C strings libraries
+* [Rosettacode](http://rosettacode.org/wiki/Category:C)
+* [cat](https://github.com/pete/cats) implemented in different os (on github)/ [gist](https://gist.github.com/pete/665971)
+
+
+**String libraries example**
     * String functions from [glib](https://developer.gnome.org/glib/2.26/glib-String-Utility-Functions.html)
     * https://github.com/intel/safestringlib 
     * https://github.com/rurban/safeclib
@@ -107,8 +111,6 @@ Videos
     * https://github.com/composer927/stringstruct
     * https://github.com/c-factory/strings
     * https://github.com/cavaliercoder/c-stringbuilder
-* [cat](https://github.com/pete/cats) implemented in different os (on github)/ [gist](https://gist.github.com/pete/665971)
-
 
 ### Projects
  
