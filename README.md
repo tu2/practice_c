@@ -101,16 +101,17 @@ Videos
 
 
 **String libraries example**
-    * String functions from [glib](https://developer.gnome.org/glib/2.26/glib-String-Utility-Functions.html)
-    * https://github.com/intel/safestringlib 
-    * https://github.com/rurban/safeclib
-    * https://github.com/mpedrero/safeString
-    * https://github.com/antirez/sds
-    * https://github.com/maxim2266/str
-    * https://github.com/xyproto/egcc
-    * https://github.com/composer927/stringstruct
-    * https://github.com/c-factory/strings
-    * https://github.com/cavaliercoder/c-stringbuilder
+    
+* String functions from [glib](https://developer.gnome.org/glib/2.26/glib-String-Utility-Functions.html)
+* https://github.com/intel/safestringlib 
+* https://github.com/rurban/safeclib
+* https://github.com/mpedrero/safeString
+* https://github.com/antirez/sds
+* https://github.com/maxim2266/str
+* https://github.com/xyproto/egcc
+* https://github.com/composer927/stringstruct
+* https://github.com/c-factory/strings
+* https://github.com/cavaliercoder/c-stringbuilder
 
 ### Projects
  
