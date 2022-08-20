@@ -40,6 +40,7 @@ Tools: [frama-c](https://frama-c.com/) | [infer](https://fbinfer.com/)
 * Notes, examples - [Data Structures and Algorithms implementations in C](https://github.com/f0lg0/c-ds-algos)
 * [How to implement a hash table in c](https://benhoyt.com/writings/hash-table-in-c/) Ben Hoyt (2021)
 * [Hash tables](https://craftinginterpreters.com/hash-tables.html) (from Crafting Interpreters, 2020) by Bob Nystrom
+* [A Regular Expression Matcher](https://www.cs.princeton.edu/courses/archive/spr09/cos333/beautiful.html) Brian Kernighan, code by Rob Pike 
 * A simple [Makefile](https://cs.colby.edu/maxwell/courses/tutorials/maketutor/) tutorial
 * Another [Makefile](https://stackoverflow.com/questions/30573481/how-to-write-a-makefile-with-separate-source-and-header-directories/30602701#30602701) tutorial.
 * A tutorial on portable [Makefiles](https://nullprogram.com/blog/2017/08/20/) by Chris Wellons (nullprogram.com, 2017)
@@ -53,6 +54,7 @@ Tools: [frama-c](https://frama-c.com/) | [infer](https://fbinfer.com/)
 
 Writing safe c code
 
+* [SEI CERT C Coding Standard](https://wiki.sei.cmu.edu/confluence/display/c/SEI+CERT+C+Coding+Standard)
 * Felix Palmen - [A beginners guide away from scanf()](http://sekrit.de/webdocs/c/beginners-guide-away-from-scanf.html)
 * John Regehr - [A Guide to Undefined Behavior in C and C++](https://blog.regehr.org/archives/213)
 * Chris Lattner - [What Every C Programmer Should Know About Undefined Behavior](https://blog.llvm.org/2011/05/what-every-c-programmer-should-know.html)
