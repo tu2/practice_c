@@ -13,7 +13,7 @@ Tools: [frama-c](https://frama-c.com/) | [infer](https://fbinfer.com/)
     * [C Working Group WG14 Docs](http://open-std.org/jtc1/sc22/wg14/)
     * [C99](http://www.open-std.org/jtc1/sc22/wg14/www/docs/n1256.pdf)
     * [C11](http://www.open-std.org/jtc1/sc22/wg14/www/docs/n2596.pdf)
-    * [C2x](http://www.open-std.org/jtc1/sc22/wg14/www/docs/n2596.pdf) (Working draft, dec 2020) 
+    * [C23](https://www.open-std.org/jtc1/sc22/wg14/www/docs/n3054.pdf) (final draft 2022) 
     * [POSIX.1-2017](https://pubs.opengroup.org/onlinepubs/9699919799/basedefs/contents.html) (opengroup.org)
 
 ### C Reference Manual (Dennis M. Ritchie) - [PDF](https://www.bell-labs.com/usr/dmr/www/cman.pdf)
