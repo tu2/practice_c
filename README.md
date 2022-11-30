@@ -60,7 +60,8 @@ Writing safe c code
 * Chris Lattner - [What Every C Programmer Should Know About Undefined Behavior](https://blog.llvm.org/2011/05/what-every-c-programmer-should-know.html)
 * Seventeen steps to safer c - [Thomas Honold](https://www.embedded.com/seventeen-steps-to-safer-c-code/)
 * [Writing safer C code](https://github.com/Cyan4973/Writing_Safer_C_code) (github.com)
-* [Summary of C/C++ integer rules](https://www.nayuki.io/page/summary-of-c-cpp-integer-rules)(nayuki.io)
+* [Summary of C/C++ integer rules](https://www.nayuki.io/page/summary-of-c-cpp-integer-rules) (nayuki.io)
+* [Everything I wish I knew when learning C](https://tmewett.com/c-tips/) (tmewett.com)
 
 Online courses
 
