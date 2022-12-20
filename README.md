@@ -72,6 +72,8 @@ Online courses
 Videos
 
 * [Study C](https://cs50.harvard.edu/college/2022/fall/) (based on CS50)
+* C tutorial [Ashley Mills](https://www.youtube.com/watch?v=UILNmv2kFMc&list=PLCNJWVn9MJuPtPyljb-hewNfwEGES2oIW) (2015 - youtube.com) source code on [github](https://github.com/staropram/c_tutorial)
+* Intro to C on Windows [handmadehero](https://handmadehero.org/)
 * [Modern C and What We Can Learn From It](https://www.youtube.com/watch?v=QpAhX-gsHMs) - Luca Sas (ACCU 2021)
 * Introduction to GDB 
     * [CS50](https://www.youtube.com/watch?v=sCtY--xRUyI) Tutorial 
@@ -87,7 +89,6 @@ Videos
     * [Example 2 - Jacob Sorber](https://www.youtube.com/watch?v=2Ti5yvumFTU) (2020 - youtube.com)
 * [Embedded Systems Programming](https://www.youtube.com/watch?v=3V9eqvkMzHA&list=PLPW8O6W-1chwyTzI3BHwBLbGQoPFxPAPM) - how to program embedded microcontrollers (MCUs) in C (2013 - youtube.com)
 * Advaced Programming in the Unix Environment - [video](https://www.youtube.com/channel/UC7-CyoYfsrVI-dsuHRQx0IQ) (2020-2021 youtube.com)
-* C tutorial [Ashley Mills](https://www.youtube.com/watch?v=UILNmv2kFMc&list=PLCNJWVn9MJuPtPyljb-hewNfwEGES2oIW) (2015 - youtube.com)
 * ["Making a game from scratch in C"](https://www.youtube.com/watch?v=3zFFrBSdBvA)-  Ryan Ries, an excelent tutorial on how to program in C on Windows (started 2020 - youtube.com)
 * Brian Kernighan interview by [Lex Fridman](https://www.youtube.com/watch?v=O9upVbGSBFo) (History of C, July 2020, youtube.com)
 * [Jacob Sorber channel](https://www.youtube.com/channel/UCwd5VFu4KoJNjkWJZMFJGHQ) on youtube.com
