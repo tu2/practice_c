@@ -23,10 +23,15 @@ void print_array(int how_many, int data[], char *str)
 
 void bubble(int data[], int how_many)
 {
+    int swapped;
     for (int i = 0; i < how_many; i++){
+        swapped = 0;
         for(int j = how_many - 1; j > i; j--)
-            if(data[j-1] > data[j])
+            if(data[j-1] > data[j]){
                 swap(&data[j-1], &data[j]);
+                swapped = 1;
+            }
+        if(!swapped) break; // if no swaps were made, terminate early
     }
 }
 
@@ -47,4 +52,3 @@ int main(void)
     return 0;
 
 }
-
